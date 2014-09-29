@@ -1,0 +1,15 @@
+-
+  "název": github
+  "foto" : ./platformy/github.png
+  "účel":  sdílení grafiky a podkladů pro grafické materiály
+  "url": https://github.com/pirati-cz/praha2014
+-
+  "název": redmine
+  "foto" : ./platformy/redmine.png
+  "účel":  evidence úkolů a výstupů
+  "url": https://redmine.pirati.cz/redmine/projects/v2013praha/issues
+-
+  "název": fórum
+  "foto" : ./platformy/phpbb.png
+  "účel":  diskuse a zpětná vazba členů, skupina příjemců e-mailů
+  "url": https://forum.pirati.cz/volebni-stab-praha-g284.html

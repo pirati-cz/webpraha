@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]><html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="cs"><![endif]-->
+<!--[if IE 7]><html class="no-js lt-ie9 lt-ie8" lang="cs"><![endif]-->
+<!--[if IE 8]><html class="no-js lt-ie9" lang="cs"><![endif]-->
+<!--[if gt IE 8]><!--><html class="no-js" lang="cs"><!--<![endif]-->
+
+{% include head.html %}
+<body{% if page.wide %} class="full"{% endif %}>
+<div class="bgwhite">
+<div class="row">
+{% include top.html %}
+</div>
+</div>
+
+<div class="large-12 columns middle-bar bgwhite">
+<div class="row">
+<div class="large-3 columns"><img src="/images/logo.png"/></div>
+<div class="large-6 columns"></div>
+<div class="large-3 columns"><a href="/kampan/index.html" class="button alert radius">Kampaňujte!</a></div>
+</div>
+</div>
+
+{% if page.category contains 'candidate' %}
+<div class="row">
+  <div class="large-5 columns candidatecolumn">
+  {% include candidatelist.html %}
+  </div>
+  <div class="large-7 columns bgwhite">
+    <h1>{{ page.title }}<small>{{ page.sub }}</small></h1>
+    <div class="anotation">{{ page.annotation }}</div>
+    <div class="perex">{{ page.perex }} </div>
+    {{ content }} 
+  </div>
+{% else %}
+<div class="row bgwhite">
+<h1>{{ page.title }} <small>{{ page.sub }}</small></h1>
+{{ content }}
+{% endif %}
+</div>
+{% include foot.html %}
+{% include js.html %}
+    </body>
+</html>

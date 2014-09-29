@@ -1,0 +1,51 @@
+---
+layout: eu
+wide: true
+title: Materiály
+---
+
+<p>Piráti se spoléhají na velkou pomoc dobrovolníků v kampani. Těšíme se na vás na některém předvolebním setkání s Piráty.</p>
+
+<h3> Distribuční místa materiálů </h3>
+
+<div class="row">
+{% for misto in site.data.distribuce %}
+<div class="large-4 column panel">
+
+<p>
+                <strong>{{ misto.["název"] }}</strong> <br/>
+                {% if misto.["adresa"] %} {{ misto.["adresa"] }}, {% endif %}{{ misto.["městská část"] }} {% if misto.["otvírací doba"] %}<br/>
+                {{ misto.["otvírací doba"] }}{% endif %}
+</p>
+
+<p>
+                {% for osoba in misto.kontakt %}
+                    {% if forloop.index != 1 %}<br/>{% endif %}
+                    {{ osoba.["jméno"] }}, tel. {{ osoba.["telefon"] }}
+                {% endfor %}
+</p>
+
+<p>
+{% assign materialy = "noviny,letáky,plakáty,náramky,trička,samolepky,placky" | split:",") %} 
+{% for material in materialy %}
+  {% if misto.['materiály'].[material] contains 'ne' %}{% else %}<div class="label" alt="{{ misto.['materiály'].[material] }}">{{ material }}</div>{% endif %}  
+{% endfor %}
+</p>
+
+</div>
+{% endfor %}
+</div>
+
+
+<h3> Zdroje grafiky a používané technické platformy </h3>
+
+<p>Všechny grafické podklady, úkoly a informace průběžně zveřejňujeme, takže se můžete do naší kampaně kdykoliv zapojit. Tento otevřený přístup si chceme uchovat i v zastupitelstvu hlavního města Prahy.</p>
+
+
+{% for platforma in site.data.platformy %}
+<div class="row">
+<div class="small-2 column"><a href="{{ platforma.["url"] }}"><img src="{{ platforma.["foto"] }}" alt="{{ platforma.["název"] }}"/></a></div>
+<div class="small-10 column"><a href="{{ platforma.["url"] }}">{{ platforma.["název"] }}</a><br/> {{ platforma.["účel"] }}</div>
+</div>
+{% endfor %}
+

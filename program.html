@@ -1,0 +1,23 @@
+---
+layout: eu
+wide: true
+title: Program
+category: program
+---
+
+<p><i>Programové priority České pirátské strany pro volby do zastupitelstva hl. m. Prahy konané 10. a 11. října 2014.</i></p>
+
+{% for bod in site.data.program %}
+
+{% if bod.number %}<h2>{{ bod.number }}. {{ bod.title }}</h2>{% endif %}
+
+<img src="{{bod.image}}" class="ilustrace-program"/>
+
+<p>{{ bod.contra }}</p>
+
+<p>{{ bod.pro }}</p>
+
+{% endfor %}
+
+<p>Ve zbylých otázkách se řídíme <a href="http://www.pirati.cz/volby/2014/komunal/program">obecným programem Pirátů pro komunální volby</a>.
+
