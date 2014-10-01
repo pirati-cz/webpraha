@@ -37,7 +37,7 @@ div.candidatecolumn {padding-left:0px !important;}
 #candidatelist img {float:left;margin-right:5px;}
 .orbit-timer, .orbit-slide-number {display:none;}
 #candidatelist li {height:65px;}
-ul#candidatelist {margin-left:0px;}
+ul#candidatelist {margin-left:0px;list-style-type: none;}
 
 @media only screen and (max-width: 48em) {
 #candidatelist img {display:none;}

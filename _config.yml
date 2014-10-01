@@ -1,15 +1,12 @@
 # Site settings
-title: Piráti.cz
+title: prahavolijinak.cz
 description: > # this means to ignore newlines until "baseurl:"
-  Evropa je naše moře! S tímto heslem vstupuje Česká pirátská strana 
-  do Evropských parlamentních voleb, kde bude prosazovat základní pirátské myšlenky.
-keywords: piráti,evropa,volby 2014,evropský parlament,kandidáti,Ivan Bartoš,Marcel Kolaja,Markéta Gregorová,Vojtěch Pikal,Tomáš Tožička,Česká pirátská strana
+  Piráti na obzoru! Česká pirátská strana kandiduje pod č. 19 v podzimních volbách do celopražského zastupitelstva. 
+  Budeme nezávisle kontrolovat práci vládnoucích politiků. Naši zastupitelé vás budou informovat a hájit!
+keywords: Piráti, komunální volby, zastupitelstvo, Praha, Praha volí jinak, Česká pirátská strana
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://volimpiraty.cz" # the base hostname & protocol for your site
-ga: UA-46899507-7
-twitter: PiratePartyCZ
-facebook: ceska.piratska.strana
-youtube: CeskaPiratskaStrana
+url: "http://www.prahavolijinak.cz" # the base hostname & protocol for your site
+ga: UA-54908007-1
 
 permalink:     :title.html
 
@@ -18,11 +15,3 @@ markdown: kramdown
 sass:
     sass_dir: _sass
     style: :compressed
-
-menu:
-  - 
-    title: "TOP5"
-    url: /index.html
-  - 
-    title: "Volím v Česku"
-    url: "/volim-v-cesku.html"
