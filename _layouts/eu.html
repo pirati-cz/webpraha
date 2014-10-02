@@ -26,10 +26,11 @@
   {% include candidatelist.html %}
   </div>
   <div class="large-7 columns bgwhite">
-    <h1>{{ page.title }}<small>{{ page.sub }}</small></h1>
-    <div class="anotation">{{ page.annotation }}</div>
-    <div class="perex">{{ page.perex }} </div>
+    <h1>{{ page.title }}{% if page.sub %}<small>{{ page.sub }}</small>{% endif %}</h1>
+    {% if page.perex %}<div class="anotation">{{ page.annotation }}</div>{% endif %}
+    {% if page.perex %}<div class="perex">{{ page.perex }} </div>{% endif %}
     {{ content }} 
+    {% if page.mail %}<p>E-mail: <a href="mailto:{{ page.mail }}">{{ page.mail }}</a></p>{% endif %}
   </div>
 {% else %}
 <div class="row bgwhite">
