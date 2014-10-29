@@ -1,14 +1,22 @@
 ---
 layout: eu
-category: candidate
+category: zastupitel
 title: Jakub Michálek
 number: 1
 fullname: Mgr. Bc. Jakub Michálek
 name: Jakub Michálek
-sub: Lídr kandidátky
+sub: předseda zastupitelského klubu
 image: jakub-michalek.jpg
 anotation: Pro tento systém jsou dostupné aktualizace
-perex: Mgr. Bc. Jakub Michálek je právník zaměřující se na svobodný přístup k informacím a autorské právo, vedle toho vystudoval též obecnou fyziku. Pracuje v pražské advokátní kanceláři. V minulosti organizoval protesty proti ACTA a podal žalobu na Václava Klause za utajování informací o amnestií. Ve volbách do zastupitelstva hl. m. Prahy kandiduje jako lídr Pirátů.
+perex: Mgr. Bc. Jakub Michálek je právník zaměřující se na svobodný přístup k informacím a autorské právo, vedle toho vystudoval též obecnou fyziku. Pracuje v pražské advokátní kanceláři. V minulosti organizoval protesty proti ACTA a podal žalobu na Václava Klause za utajování informací o amnestií. 
+priznani: https://github.com/pirati-cz/KlubPraha/blob/master/priznani/jakub-michalek.md
+telefon: + 420 775 978 550
+mail: jakub.michalek@pirati.cz
+facebook: https://www.facebook.com/smidak
+vykaz: https://redmine.pirati.cz/redmine/activity?show_time_entries=1&user_id=4
+ukoly: https://redmine.pirati.cz/redmine/projects/praha/issues?set_filter=1&f%5B%5D=status_id&op%5Bstatus_id%5D=o&f%5B%5D=assigned_to_id&op%5Bassigned_to_id%5D=%3D&v%5Bassigned_to_id%5D%5B%5D=4&f%5B%5D=&c%5B%5D=tracker&c%5B%5D=status&c%5B%5D=subject&c%5B%5D=done_ratio&c%5B%5D=project&group_by=priority
+foto: https://www.flickr.com/search/?text=Jakub%20Michalek&sort=relevance&user_id=68741528%40N03
+github: https://github.com/jmichalek
 ---
 
 **Jak je to dlouho, co působíš v Pirátské straně?**

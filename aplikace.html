@@ -1,0 +1,16 @@
+---
+layout: eu
+wide: true
+title: Používané aplikace
+---
+
+<p>Všechny grafické podklady, úkoly a informace průběžně zveřejňujeme, takže se můžete do naší kampaně kdykoliv zapojit. Tento otevřený přístup si chceme uchovat i v zastupitelstvu hlavního města Prahy.</p>
+
+
+{% for platforma in site.data.platformy %}
+<div class="row">
+<div class="small-2 column"><a href="{{ platforma.["url"] }}"><img src="{{ platforma.["foto"] }}" alt="{{ platforma.["název"] }}"/></a></div>
+<div class="small-10 column"><a href="{{ platforma.["url"] }}">{{ platforma.["název"] }}</a><br/> {{ platforma.["účel"] }}</div>
+</div>
+{% endfor %}
+

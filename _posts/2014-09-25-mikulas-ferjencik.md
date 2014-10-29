@@ -1,17 +1,21 @@
 ---
 layout: eu
-category: candidate
+category: zastupitel
 title: Mikuláš Ferjenčík
 number: 4
 fullname: Mikuláš Ferjenčík
 name: Mikuláš Ferjenčík
-sub: kandidát č. 4
+sub: zastupitel a mluvčí klubu
 image: mikulas-ferjencik.jpg
 anotation: Každý chce být trochu jako Johnny Depp
 perex: Protikorupční aktivista, lektor kroužků logiky a překladatel. Zaměřuje se na komunikaci města a obyvatel, podezřelé kauzy, konkrétní dopravní zlepšení.
 mail: mikulas.ferjencik@pirati.cz
 facebook: "https://www.facebook.com/mikfer"
-telefon: 737 943 770
+telefon: + 420 737 943 770
+vykaz: https://redmine.pirati.cz/redmine/activity?show_time_entries=1&user_id=17
+ukoly: https://redmine.pirati.cz/redmine/projects/praha/issues?set_filter=1&f%5B%5D=status_id&op%5Bstatus_id%5D=o&f%5B%5D=assigned_to_id&op%5Bassigned_to_id%5D=%3D&v%5Bassigned_to_id%5D%5B%5D=17&f%5B%5D=&c%5B%5D=tracker&c%5B%5D=status&c%5B%5D=subject&c%5B%5D=done_ratio&c%5B%5D=project&group_by=priority
+foto: https://www.flickr.com/search/?text=Mikuláš%20Ferjenčík&sort=relevance&user_id=68741528%40N03
+github: https://github.com/mifer
 ---
 
 **Mikuláš Ferjenčík** se narodil v Českých Budějovicích, brzy se ale s rodiči přestěhoval do Choltic, malé obce nedaleko Pardubic. V současnosti žije s manželkou v Praze a v Pardubicích dává do pořádku byt po babičce. 

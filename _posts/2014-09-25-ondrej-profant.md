@@ -1,14 +1,22 @@
 ---
 layout: eu
-category: candidate
+category: zastupitel
 title: Ondřej Profant
 number: 2
 fullname: Ondřej Profant
 name: Ondřej Profant
-sub: kandidát č. 2
+sub: zastupitel se zaměřením na informatiku
 image: ondrej-profant.jpg
 anotation: Zeptejte se svých dětí, proč volí Piráty
 perex: Informatik specializovaný na svobodný software. Zaměřuje se na IT systémy, technologické inovace a nalýzu zavedení bezplatné MHD.
+priznani: https://github.com/pirati-cz/KlubPraha/blob/master/priznani/ondrej-profant.md
+facebook: "https://www.facebook.com/ondrej.profant"
+telefon: + 420 607 580 015
+mail: ondrej.profant@pirati.cz
+vykaz: https://redmine.pirati.cz/redmine/activity?show_time_entries=1&user_id=3
+ukoly: https://redmine.pirati.cz/redmine/projects/praha/issues?set_filter=1&f%5B%5D=status_id&op%5Bstatus_id%5D=o&f%5B%5D=assigned_to_id&op%5Bassigned_to_id%5D=%3D&v%5Bassigned_to_id%5D%5B%5D=3&f%5B%5D=&c%5B%5D=tracker&c%5B%5D=status&c%5B%5D=subject&c%5B%5D=done_ratio&c%5B%5D=project&group_by=priority
+foto: https://www.flickr.com/search/?text=Ondřej%20Profant&sort=relevance&user_id=68741528%40N03
+github: https://github.com/Kedrigern
 ---
 
 **Ondřej Profant** (2. května 1988) je předsedou krajského sdružení Pirátů v Praze a garantem programového bodu o svobodě informací. Byl již členem přípravného výboru České pirátské strany. Pochází a žije v Praze. Vystudoval všeobecné gymnázium. Dále studoval Matematicko-fyzikální fakultu UK, obor Obecná informatika, ale školu nedokončil. V průběhu studia se však blíže seznámil s principy open source softwaru, což ho přivedlo ke Svobodné kultuře obecně a následně i k pirátství. 

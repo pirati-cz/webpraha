@@ -1,11 +1,11 @@
 <script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
-<script src="/js/foundation/foundation.js"></script>
-<script src="/js/foundation/foundation.topbar.js"></script>
-{% if page.category contains 'candidate' %}<script src="/js/foundation/foundation.orbit.js"></script>{% endif %}
+<script src="/assets/js/foundation/foundation.js"></script>
+<script src="/assets/js/foundation/foundation.topbar.js"></script>
+{% if page.category contains 'zastupitel' %}<script src="/assets/js/foundation/foundation.orbit.js"></script>{% endif %}
 <script>
   $(document).foundation();
 </script>
-{% if page.category contains 'candidate' %}
+{% if page.category contains 'zastupitel' %}
 <script>
 $('#candidatecarousel').on('after-slide-change.fndtn.orbit', function(event, orbit) {
   var activeSlide = $(event.currentTarget).find('li').eq(orbit.slide_number);
@@ -15,7 +15,4 @@ $('#candidatecarousel').on('after-slide-change.fndtn.orbit', function(event, orb
 });
 </script>
 {% endif %}
-{% if page.category contains 'program' %}<script>
-$( "#accordion" ).accordion();
-</script>{% endif %}
 
