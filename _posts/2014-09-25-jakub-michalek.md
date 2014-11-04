@@ -19,47 +19,10 @@ foto: https://www.flickr.com/search/?text=Jakub%20Michalek&sort=relevance&user_i
 github: https://github.com/jmichalek
 ---
 
-**Jak je to dlouho, co působíš v Pirátské straně?**
+**Mgr. Bc. Jakub Michálek** (* 6. února 1989 Louny) je předseda klubu Pirátů v zastupitelstvu hl. m. Prahy. Zaměřuje se na svobodný přístup k informacím a autorské právo. 
 
-Příznivcem jsem se stal již v roce 2009. Za několik měsíců jsem přišel na první setkání. 
+Jakub Michálek studoval na Gymnáziu Jana Keplera v Praze, na Oundle School ve Velké Británii a na Cranbrook-Kingswood v USA. Během pobytu v USA pracoval na University of Michigan. Na Právnické fakultě Univerzity Karlovy vystudoval obor Právo a právní věda s diplomovou prací [Povinné zveřejňování informací](http://www.pirati.cz/_media/lide/diplomka_michalek.pdf). Vystudoval obecnou fyziku na Matematicko-fyzikální fakultě UK. Má zkušenosti z akademické samosprávy, kde byl členem akademického senátu.
 
-**Hledal jsi tehdy stranu, s níž bys souzněl?**
+Je autorem podání v precendenčním sporu u Nejvyššího správního soudu ohledně toho, že podání do datové schránky úřadu nemusí být elektronicky podepsáno, spoluautorem návrhu na zrušení čl. 2 amnestie Václava Klause, hlavním autorem návrhu Pirátů na zrušení 5% uzavírací klauzule ve volbách do sněmovny a do Evropského parlamentu.
 
-Politika mě celkem zajímala, ale bylo to tehdy hlavně o ODS a ČSSD. Vznikli Piráti, kteří se nebáli jít do kontroverzních témat a trvat na reformě autorského práva. Neváhal jsem.
-
-**Věnuješ se různým tématům. Povedlo se ti něčeho dosáhnout?**
-
-Protože jsem právník, snažím se používat hlavně právní nástroje. Účastním se například konzultací ohledně novel autorského zákona a zákona o svobodném přístupu k informacím. Hodně jsem se věnoval mezinárodní protipirátské smlouvě ACTA, sepsal jsem její rozsáhlou analýzu a nakonec jsem jednal s ministrem. Ten ratifikaci pozastavil.
-
-Po Klausově amnestii, kdy zastavil trestní stíhání podvodníků z H-Systému, jsem pro Hanu Marvanovou koncipoval návrh skupiny senátorů na zrušení kontroverzní části amnestie. I když Ústavní soud amnestii nezrušil, veřejnost tento Klausův krok jasně odsoudila. Kvůli utajování autorů amnestie jsem Klause i zažaloval, ale soud dosud nerozhodl. 
-
-Naposledy jsem ve volném čase vytvořil padesátistránkovou
-brožuru o zaměstnaneckých dílech. Vysvětluji v ní, jak mají školy řešit autorská práva ke skriptům a učebnicím vytvořeným
-za veřejné peníze, aby byly veřejně dostupné v režimu otevřeného přístupu (Open Access).
-
-**Dostal se do hledáčku tvého zájmu v minulosti i pražský magistrát?**
-
-Angažovali jsme se s Piráty hlavně kolem kauz spojených s IT službami a zveřejnili jsme, kolik magistrát utrácí za pochybné kontrakty.
-Také jsme přiměli pražský dopravní podnik zveřejňovat smlouvy na webu. Díky svému zaměření na autorská práva jsem se podílel na rozboru problémů a doporučeních kolem Opencard.
-
-**A co chceš na magistrátu s těmi velkými kauzami minulosti dělat?**
-
-Je potřeba v zastupitelstvu založit tým, který tyto kauzy nezávisle prošetří a zveřejní, kdo za ně nese odpovědnost. Do budoucna pak musí
-být dána jasná pravidla a vzorové smlouvy platné pro všechna výběrová řízení. Nemůže se opakovat, aby město zaplatilo za vývoj nějaké
-aplikace, nemělo na ni plná práva a následně se muselo doprošovat u původního dodavatele, kdykoliv chce software změnit.
-
-**Co vůbec na pražském magistrátu zmůže jednotlivec? I kdyby se do zastupitelstva dostali tři, čtyři Piráti, co od nich můžeme čekat?**
-
-I jednotlivec má šanci nastolovat na zastupitelstvu témata a zejména má přístup k informacím. Piráti chtějí být konstruktivní opozicí,
-která aktivně připomínkuje návrhy a zasadí se o to, aby přístup k informacím měli i občané.
-
-Chceme radu města nezávisle kontrolovat a zabránit podezřelým záměrům již při schvalování. Ušetříme tak práci policii a peníze nám všem.
-
-**Ještě pojďme o trochu nazpět. Souběžně s aktivitou u Pirátů jsi vedle práv studoval i fyziku na Matematicko-fyzikální fakultě UK. Jak
-ovlivnila tvůj pohled na politiku**
-
-Fyzikální zákony jsou pevně dané, lidské zákonyjsou dohodnutá, více či méně kulturně zakořeněná pravidla. Logičnost, objektivní realita a předvídatelnost jsou pro právo užitečné, ale hodnotové pojmy jako svoboda, spravedlnost či poctivost by se z něho neměly vytrácet.
-
-**A závěrem: Co tě na politice tak baví?**
-
-Cítím, že pomáháme v přirozeném vývoji směrem ke znalostní společnosti. Je důležité, aby si společnost nové technologie osahala a zachovala si hodnoty jako je otevřené řešení veřejných záležitostí a ochrana svobod a soukromí jednotlivce. Než nás ovládnou roboti. (Smích)
+Jí rád moruše, pistácie, rajčatovou polévku, bazalku a výrobky z lékořice. Baví ho česká opera a vážná hudba obecně, fyzikální problémy, ústavní právo a pěší výlety.
