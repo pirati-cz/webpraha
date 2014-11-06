@@ -12,10 +12,11 @@ category: program
 {% capture modulo %}{{ forloop.index0 | mod:2 }}{% endcapture %}
 
 {% if modulo == '0' or forloop.first %}
+  Řádek
   <div class="row blog">
 {% endif %}
 
-<div class="medium-6 columns {% if forloop.last and modulo == '1' %}end{% endif %}">
+<div class="medium-6 columns{% if forloop.last and modulo == '0' %} end{% endif %}">
 <img src="{{ blog.image }}"/>
 <h2><a href="{{ blog.url }}">{{ blog.title }}</a></h2>
 
@@ -23,7 +24,7 @@ category: program
 {% else %}
 {{ blog.content | strip_html | truncatewords: 30 }}
 {% endif %}
-<a href="{{ blog.url }}">více..</a>
+<a href="{{ blog.url }}">více</a>.
 </div>
 
 {% if modulo == '1' or forloop.last %}
