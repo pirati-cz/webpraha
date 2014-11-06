@@ -7,12 +7,11 @@ category: program
 
 {% assign blogs = (site.posts | where: "category", "blog" | sort: 'date') %}
 
+{% assign modulo = 0 %}
+
 {% for blog in blogs reversed %}
 
-{% capture modulo %}{{ forloop.index0 | mod:2 }}{% endcapture %}
-
 {% if modulo == '0' or forloop.first %}
-  Řádek
   <div class="row blog">
 {% endif %}
 
@@ -29,6 +28,12 @@ category: program
 
 {% if modulo == '1' or forloop.last %}
   </div>
+{% endif %}
+
+{% if modulo == 0 %}
+  {% assign modulo = 1 %}
+{% else %}
+  {% assign modulo = 0 %}
 {% endif %}
 
 {% endfor %}
