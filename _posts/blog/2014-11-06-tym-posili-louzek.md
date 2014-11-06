@@ -9,7 +9,7 @@ Tým Pirátů v zastupitelstvu hl. m. Prahy posílí wikipedista Jan Loužek. Ve
 
 Piráti jako jedni z mála zastupitelských klubů uspořádali **řádné výběrové řízení**. Magistrát jim dokonce publikoval inzerát na úřední desce. Uchazeči byli hodnoceni podle [6 kritérií]: schopnost vypořádat se s uloženým úkolem, zkušenosti s administrativou, znalost Pirátského programu, technické dovednosti se svobodným softwarem, schopnost domluvit se anglicky a osobní dojem.
 
-Loužek zaujal hodnotitele svými zkušenostmi z Evropského parlamentu, kde si mimo jiné psal [blog] v angličtině. Má také zkušenosti z české Wikimedie, což je spolek, který zaštiťuje internetovou encyklopedii Wikipedia. Vykonává aktuálně funkci předsedy Wikimedie. To se však má brzo změnit, neboť v návaznosti na úspěch ve výběrovém řízení se patrně z funkce **předsedy Wikimedie posune**; změnu hodlá navrnout na nejbližší valné hromadě spolku.
+Loužek zaujal hodnotitele svými zkušenostmi z Evropského parlamentu, kde si mimo jiné psal [blog] v angličtině. Má také zkušenosti z české Wikimedie, což je spolek, který zaštiťuje internetovou encyklopedii Wikipedia. Vykonává aktuálně funkci předsedy Wikimedie. Vykonává aktuálně funkci předsedy spolku, do budoucna ji však v souvislosti ve spolupráci s Piráty zvažuje přehodnotit.
 
 > „Rozhodl jsem se spolupracovat s Piráty proto, že se již léta zabývám o problematiku svobodného softwaru, otevřeného vzdělávání a transparentnosti. S Piráty jsem v minulosti už spolupracoval; ať to bylo například v Chorvatsku, v Belgii, nebo v dalších zemích... Do komunálu se těším, je to něco zcela nového,“ říká nový zveřejňovač Pirátů Jan Loužek. 
 
