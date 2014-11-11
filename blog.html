@@ -11,14 +11,14 @@ category: program
 
 {% for blog in blogs reversed %}
 
-{% if modulo == '0' or forloop.first %}
+{% if modulo == 0 or forloop.first %}
   <div class="row blog">
 {% endif %}
 
 <div class="medium-6 columns{% if forloop.last and modulo == '0' %} end{% endif %}">
 <img src="{{ blog.image }}"/>
 <h2><a href="{{ blog.url }}">{{ blog.title }}</a></h2>
-
+{% if blog.autor %} <span class="radius secondary label">{{ blog.autor}}</span> {% endif %}
 {% if blog.excerpt %}{{ blog.excerpt | truncatewords: 30 }}
 {% else %}
 {{ blog.content | strip_html | truncatewords: 30 }}
@@ -26,7 +26,7 @@ category: program
 <a href="{{ blog.url }}">více</a>.
 </div>
 
-{% if modulo == '1' or forloop.last %}
+{% if modulo == 1 or forloop.last %}
   </div>
 {% endif %}
 

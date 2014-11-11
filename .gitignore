@@ -5,3 +5,4 @@ build/
 .idea
 *~
 _trash/
+.sass-cache/
