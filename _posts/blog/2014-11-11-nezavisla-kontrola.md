@@ -18,4 +18,4 @@ Piráti poslali budoucí primátorce Adrianě Krnáčové [otevřený dopis]. Pi
 
 Fakt, že je šéf kontrolního výboru uvolněná funkce, je fajn, ale nejsme na těch penězích závislí. Platí nás Piráti, takže rozhodně neuděláme žádný nepřijatelný handl, abychom tu pozici obsadili. Prostě jsme přesvědčení, že to budeme dělat nejlépe ze stran, které v zastupitelstvu Prahy sedí.
 
-[otevřený dopis]: https://github.com/pirati-cz/KlubPraha/raw/master/spisy/2014/7-dopis-kontrolni-vybor/zadost/main_signed.pdf
+[otevřený dopis]: https://github.com/pirati-cz/KlubPraha/raw/master/spisy/2014/07-dopis-kontrolni-vybor/zadost/main_signed.pdf
