@@ -6,7 +6,7 @@ number: 5
 fullname: Jan Loužek
 name: Jan Loužek
 sub: zveřejňovač
-image: jan_louzek.jpg
+image: jan-louzek.jpg
 anotation: Informace veřejnosti
 perex: Jan Loužek dlouhodobě podporuje otevřený obsah; v neziskovém prostředí se zabývá otevřeným vzděláváním, problematikou autorského práva a komunitní spolupráce.
 mail: jan.louzek@pirati.cz
