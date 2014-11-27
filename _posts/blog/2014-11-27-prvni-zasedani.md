@@ -2,7 +2,7 @@
 layout: eu
 category: blog
 tags: informace
-title: Den otevřených dveří
+title: Kontrolní výbor nezvolen
 image: /assets/images/blog/projev-kontrolni-vybor.jpg
 autor: Jakub Michálek
 ---
@@ -13,12 +13,14 @@ KSČM nepodpoří. Program koalice podle koaliční smlouvy však vypadá celkem
 Koalice však zrušila výbor pro IT, takže nyní nebude v zastupitelstvu žádný orgán,
 který by se specializoval na koncepci IT a kontroloval zakázky.
 
-1. Podařilo se nám dostat do finančního výboru jednoho nečlena zastupitelstva 
+1. Podařilo se nám dostat do finančního výboru jednoho **nečlena** zastupitelstva 
    Viktora Mahrika. Podle informací magistrátu se toto za posledních cca 18 let
-   nestalo. 
+   nestalo. Viktor studuje finance na vysoké škole a bude se věnovat rozpočtu.
 
 2. Při volbě předsedy finančního výboru jsme hlasovali proti panu Miroslavu 
-   Ludvíkovi (ČSSD). Ten nám za to slíbil, že si nás píše na svůj „seznam“.
+   Ludvíkovi (ČSSD), který se proslavil aférou s protekcí pro privilegované pacienty 
+   (kulichy) v nemocnici Motol, kterou řídí. 
+   Ten nám za to slíbil, že si nás píše na svůj „seznam“.
    Obávám se, že v tomto případě nemyslel seznam kulichů s prioritní zdravotní péčí.
 
 3. Bohužel se dnes nepodařilo zvolit předsedu kontrolního výboru. Na předsedu 
