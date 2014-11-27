@@ -50,3 +50,5 @@ který by se specializoval na koncepci IT a kontroloval zakázky.
 
 Děkujeme všem, kteří nás přišli podpořit přímo na zasedání. 
 
+[Fotky ze zasedání](https://www.flickr.com/photos/pirati/sets/72157647084661973/)
+
