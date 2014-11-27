@@ -2,7 +2,7 @@
 layout: eu
 category: zastupitel
 title: Jan Loužek
-number: 5
+number: 6
 fullname: Jan Loužek
 name: Jan Loužek
 sub: zveřejňovač
