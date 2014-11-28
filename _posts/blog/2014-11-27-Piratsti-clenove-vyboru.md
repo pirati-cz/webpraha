@@ -4,7 +4,7 @@ category: blog
 tags: vybory
 title: Přehled Pirátů ve výborech Zastupitelstva hlavního města Prahy
 image: /assets/images/blog/pirati-a-krnacova.jpg
-autor: Jakub Michálek
+autor: Jan Loužek
 ---
 Na ustavujícím zasedání Zastupitelstva hlavního města Prahy byl zvolen nový primátor města, rada a rovněž i členové výborů zastupitelstva. Následujících pět členů je ve funkci za Pirátskou stranu.
 
