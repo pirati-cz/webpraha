@@ -2,7 +2,7 @@
 layout: eu
 category: blog
 tags: akce
-title: Chystá se zastupitelský Piratecon
+title: Zastupitelský Piratecon
 image: /assets/images/blog/pirati-ujezd.jpg
 autor: Jan Loužek
 ---
