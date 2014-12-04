@@ -2,7 +2,7 @@
 layout: eu
 category: blog
 tags: projev
-title: Projev předsedy klubu Jakuba Michálka na ustavujícím zasedání zastupitelstva
+title: Koalice má bílá místa
 image: /assets/images/blog/jakub-hovori.jpg
 autor: Jakub Michálek
 ---
