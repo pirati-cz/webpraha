@@ -2,7 +2,7 @@
 layout: eu
 category: blog
 tags: vybory
-title: Přehled Pirátů ve výborech Zastupitelstva hlavního města Prahy
+title: Přehled Pirátů ve výborech
 image: /assets/images/blog/pirati-a-krnacova.jpg
 autor: Jan Loužek
 ---
