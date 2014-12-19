@@ -2,7 +2,7 @@
 layout: eu
 category: blog
 tags: smlouvy, otevrenost
-title: Zveřejňování smluv: Prostě to pozdržíme
+title: Zveřejňování smluv - Prostě to pozdržíme
 image: /assets/images/blog/adam-papir.jpg
 autor: Jan Loužek
 ---
