@@ -2,7 +2,7 @@
 layout: eu
 category: blog
 tags: projev
-title: Zasedala rada hlavního města
+title: Vendor lock-in pokračuje
 image: /assets/images/blog/magistrat.jpg
 autor: Ondřej Profant
 ---
