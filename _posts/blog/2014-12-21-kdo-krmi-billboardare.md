@@ -92,7 +92,7 @@ předpisy jako celek a nikoliv jen v částech, v nichž vidí rozpor se zákone
 ### Co bude dál?
 
 Rada následující den po zasedání, tj. v pátek 19. prosince 2014, schválila, že se Praha proti rozhodnutí ministerstva bude bránit
-právními prostředky a pokusí se nápravu zjednat příští rok ([tisk R-16381](/assets/static/stavebni-predpisy/tisk-R-16381.pdf)).
+právními prostředky a pokusí se nápravu zjednat příští rok ([tisk R-16381](/assets/static/stavebni-predpisy/tisk-r-16381.pdf)).
 
 Vypadá to, že 
 
