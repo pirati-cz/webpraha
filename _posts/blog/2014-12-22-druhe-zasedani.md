@@ -4,7 +4,7 @@ category: blog
 tags: hlasovani, zastupitelstvo
 title: Podruhé zasedalo zastupitelstvo 
 image: /assets/images/blog/miki.jpg
-autor: Jakub Michálek
+autor: Jan Loužek
 ---
 
 Rádi bychom se ještě chtěli vrátit k minulému týdnu, kdy se konalo 2. zasedání zastupitelstva hlavního města Prahy. Ve čtvrtek, 18. prosince 2014 se sešlo všech 65 zastupitelů k celodennímu jednání. Šlo o první pracovní zasedání po ustavujícím z konce měsíce listopadu. Přinášíme stručný souhrn klíčových bodů, u některých si můžete rozkliknout podrobnosti. Za klíčové body zasedání považujeme:
