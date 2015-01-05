@@ -13,8 +13,8 @@ priznani: https://github.com/pirati-cz/KlubPraha/blob/master/priznani/ondrej-pro
 facebook: "https://www.facebook.com/ondrej.profant"
 telefon: + 420 607 580 015
 mail: ondrej.profant@pirati.cz
-vykaz: https://redmine.pirati.cz/redmine/activity?show_time_entries=1&user_id=3
-ukoly: https://redmine.pirati.cz/redmine/projects/praha/issues?query_id=10
+vykaz: https://redmine.pirati.cz/activity?show_time_entries=1&user_id=3
+ukoly: https://redmine.pirati.cz/projects/praha/issues?query_id=10
 foto: https://www.flickr.com/search/?text=Ondřej%20Profant&sort=relevance&user_id=68741528%40N03
 github: https://github.com/Kedrigern
 ---

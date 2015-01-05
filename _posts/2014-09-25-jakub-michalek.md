@@ -13,8 +13,8 @@ priznani: https://github.com/pirati-cz/KlubPraha/blob/master/priznani/jakub-mich
 telefon: + 420 775 978 550
 mail: jakub.michalek@pirati.cz
 facebook: https://www.facebook.com/smidak
-vykaz: https://redmine.pirati.cz/redmine/activity?show_time_entries=1&user_id=4
-ukoly: https://redmine.pirati.cz/redmine/projects/praha/issues?query_id=6
+vykaz: https://redmine.pirati.cz/activity?show_time_entries=1&user_id=4
+ukoly: https://redmine.pirati.cz/projects/praha/issues?query_id=6
 foto: https://www.flickr.com/search/?text=Jakub%20Michalek&sort=relevance&user_id=68741528%40N03
 github: https://github.com/jmichalek
 ---

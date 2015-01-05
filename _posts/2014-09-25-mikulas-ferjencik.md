@@ -12,8 +12,8 @@ perex: Protikorupční aktivista, lektor kroužků logiky a překladatel. Zamě�
 mail: mikulas.ferjencik@pirati.cz
 facebook: "https://www.facebook.com/mikfer"
 telefon: + 420 737 943 770
-vykaz: https://redmine.pirati.cz/redmine/activity?show_time_entries=1&user_id=17
-ukoly: https://redmine.pirati.cz/redmine/projects/praha/issues?query_id=9
+vykaz: https://redmine.pirati.cz/activity?show_time_entries=1&user_id=17
+ukoly: https://redmine.pirati.cz/projects/praha/issues?query_id=9
 foto: https://www.flickr.com/search/?text=Mikuláš%20Ferjenčík&sort=relevance&user_id=68741528%40N03
 github: https://github.com/mifer
 ---

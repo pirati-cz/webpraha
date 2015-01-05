@@ -14,8 +14,8 @@ twitter: "https://twitter.com/aktron_is_here"
 facebook: "https://www.facebook.com/jan.louzek"
 telefon: + 420 608 213 119
 mail: jan.louzek@pirati.cz
-vykaz: https://redmine.pirati.cz/redmine/activity?show_time_entries=1&user_id=46
-ukoly: https://redmine.pirati.cz/redmine/projects/praha/issues?query_id=14
+vykaz: https://redmine.pirati.cz/activity?show_time_entries=1&user_id=46
+ukoly: https://redmine.pirati.cz/projects/praha/issues?query_id=14
 foto: https://www.flickr.com/search/?text=Jan%20Loužek&sort=relevance&user_id=68741528%40N03
 github: https://github.com/aktron
 ---
