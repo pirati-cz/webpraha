@@ -16,8 +16,9 @@ papírovou průkazkou vystačí děti a senioři (ušetří cca 200 Kč) a papí
 průkazku si budou moci pořídit i ostatní občané, kteří nechtějí používat Opencard.
 
 **Dosavadní karty Opencard fungují a do budoucna budou fungovat nadále stejným
-způsobem jako dosud. Jde o důležité záložní řešení, které je nezbytným
-mezikrokem k dlouhodobému řešení problémů v kauze Opencard. Jednání s EMS pokračuje, jednou z variant je i odkup zdrojového kódu.**
+způsobem jako dosud. Rozšíření papírových kupónů je důležité záložní řešení, které je nezbytným
+mezikrokem k dlouhodobému řešení problémů v kauze Opencard. 
+Jednání s EMS nadále pokračuje, jednou z variant je i odkup zdrojového kódu.**
 
 Pokrok v kauze Opencard
 -----------------------
