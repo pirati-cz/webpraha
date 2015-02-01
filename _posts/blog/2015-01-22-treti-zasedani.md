@@ -43,7 +43,7 @@ Přinášíme to nejdůležitější, co se na zasedání přihodilo:
 * Rada hl. m. Prahy navrhla schválit odůvodnění **zakázky na svoz odpadu ve výši
   13 mld. korun**. Pochopitelně chceme, aby odpadové hospodářství v Praze fungovalo,
   ale není kvůli tomu třeba více různých věcí slučovat do jedné zakázky a vytvářet
-  na trhu umělý monopol. Ondřej Profant přednesl společně vytvořený návrh klubu Pirátů,
+  na trhu umělý monopol. Ondřej Profant [přednesl](http://praha.pirati.cz/ondra.html) společně vytvořený návrh klubu Pirátů,
   aby zastupitelstvo konstatovalo, že nebyly zváženy alternativy (např. rozdělení 
   na městské části) a uložilo Radě nové zpracování výběrového řízení. Tento
   návrh podpořily i ostatní opoziční politické strany.
