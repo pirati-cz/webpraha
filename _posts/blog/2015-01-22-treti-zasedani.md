@@ -49,12 +49,12 @@ Přinášíme to nejdůležitější, co se na zasedání přihodilo:
   návrh podpořily i ostatní opoziční politické strany.
 * Na **předsedu kontrolního výboru kandidoval Mikuláš Ferjenčík**. Mikuláš mj. čelil
   žalobě společnosti Marbes, kterou kritizoval kvůli tomu, že za peníze Prahy 
-  vyvíjela software prodávaný po celém městě. Má tedy skvělou kvalifikaci
+  vyvíjela software prodávaný po celé republice. Má tedy skvělou kvalifikaci
   zastupovat Piráty v kontrolním výboru. Když Mikulášova kandidatura neprošla, 
   rozhodl se zastupitelský klub podpořit
   při výběru mezi kandidátem ODS Filipem Humplíkem raději Tomáše Hudečka z TOP09.
   Naším cílem není získávat dobře placené pozice, ale aby byl kontrolní výbor
-  konečně obsazen a začal fungovat. 
+  konečně obsazen a začal fungovat. Kontrolní výbor však již potřetí nebyl zvolen.
 
 Zastupitelé také poprvé postupovali podle nově přijaté [metodiky](https://redmine.pirati.cz/projects/praha/wiki/P%C5%99%C3%ADprava_na_zastupitelstvo), takže
 vše probíhalo bez chaosu a návrhy byly připraveny včas. Členové strany a veřejnost
