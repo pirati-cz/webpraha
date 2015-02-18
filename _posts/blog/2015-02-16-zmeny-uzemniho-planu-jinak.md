@@ -3,7 +3,7 @@ layout: eu
 category: blog
 tags: územní plán
 title: Změny územního plánu jinak
-image: /assets/images/blog/magistrat.jpg 
+image: /assets/images/blog/uplan.jpg 
 autor: Mikuláš Ferjenčík
 ---
 
