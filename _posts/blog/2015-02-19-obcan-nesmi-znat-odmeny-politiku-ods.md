@@ -43,3 +43,5 @@ Jan Loužek, zveřejňovač klubu Pirátů
 
 *Zastupitelé ANO 2011, ČSSD, ODS, Trojkoalice a TOP09 se projednáním tohoto bodu
 odmítli zabývat.*
+
+Jakub Michálek si na tuto věc místopředsedkyni JUDr. Janderové [stěžoval](https://github.com/pirati-cz/KlubPraha/raw/master/spisy/2015/15-dopis-reditelce/text/main.pdf), ale neobdržel žádnou odpověď.
