@@ -41,5 +41,5 @@ Děkuji Vám.
 
 Jan Loužek, zveřejňovač klubu Pirátů
 
-//Zastupitelé ANO 2011, ČSSD, ODS, Trojkoalice a TOP09 se projednáním tohoto bodu
-odmítli zabývat.//
+*Zastupitelé ANO 2011, ČSSD, ODS, Trojkoalice a TOP09 se projednáním tohoto bodu
+odmítli zabývat.*
