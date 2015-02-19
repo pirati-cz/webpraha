@@ -2,7 +2,7 @@
 layout: eu
 category: blog
 tags: granty
-title: Březina s Kleslovou mají rozdělovat 360 milionů na sport
+title: Březina s Kleslovou rozdělí 360 milionů na sport
 image: /assets/images/blog/navrh.jpg
 autor: Adam Zábranský
 ---
