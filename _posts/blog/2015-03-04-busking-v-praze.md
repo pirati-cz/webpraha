@@ -9,8 +9,8 @@ autor: Mikuláš Ferjenčík
 
 Dnes se výbor zastupitelstva pro kulturu zabýval návrhem novely vyhlášky upravující busking - pouliční umělecká vystoupení - v Praze. Novela přináší dvě zásadní změny:
 
-# Zákaz zesilovačů a hlasitých hudebních nástrojů
-# Povoluje uměleckou produkci v liché hodiny na jednom břehu Vltavy a v sudé hodiny na břehu druhém. 
+1. Zákaz zesilovačů a hlasitých hudebních nástrojů
+2. Povoluje uměleckou produkci v liché hodiny na jednom břehu Vltavy a v sudé hodiny na břehu druhém. 
 
 Zatímco druhý návrh považujeme za poměrně rozumný a elegantní (je ovšem potřeba vyhodnotit, zda je nutné zavést toto opatření plošně, anebo pouze v centru Prahy), opatření první považujeme za příliš přísné především za situace, kdy zůstává hudební produkce v řadě ulic v centru zakázaná úplně. Pokud se mají zpřísnit podmínky pro umělce, je na místě na oplátku rozšířit počet míst, kde se dá hrát. 
 
