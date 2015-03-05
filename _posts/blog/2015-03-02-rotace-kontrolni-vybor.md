@@ -92,3 +92,4 @@ nepodpoří.
 
 **Kontrolní výbor tedy nic nekontroluje a to je stav, který všem předchozím i 
 současným vládnoucím strukturám v hlavním městě Praze vyhovuje.**
+
