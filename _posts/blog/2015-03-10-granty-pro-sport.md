@@ -3,7 +3,7 @@ layout: eu
 category: blog
 tags: granty
 title: Karel Březina v grantové komisi
-image: 
+image: /assets/images/blog/brezina.jpg
 autor: Mikuláš Ferjenčík
 ---
 
