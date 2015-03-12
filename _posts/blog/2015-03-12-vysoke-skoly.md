@@ -2,7 +2,7 @@
 layout: eu
 category: blog
 tags: granty
-title: Poskytují vysoké školy údaje o odměnách svých manažerů?
+title: Školy už neutají odměny manažerů
 image: /assets/images/blog/jakub-rozsudek.jpg
 autor: Jakub Michálek
 ---
