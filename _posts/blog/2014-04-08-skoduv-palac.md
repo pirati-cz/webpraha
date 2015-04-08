@@ -29,7 +29,7 @@ Pro kompetentní a věcné rozhodnutí ovšem potřebujeme odpovědi na otázky,
 **Otázky na ODS:**
     
 * 1) Proč kontrolní výbor nebyl do mimořádného zastupitelstva svolán? Proč bylo zasedání zrušeno? 
-* 2) Proč Aleksandra Udženija v DVTV hovořila o komisi, která vybírala z několika nabídek, když byla podána nabídka jediná. 
+* 2) Proč Aleksandra Udženija v DVTV hovořila o komisi, která vybírala z několika nabídek, když byla podána nabídka jediná? 
 * 3) Považujete nájemní smlouvu na nájem Škodova paláce, kterou uzavřeli zástupci ODS, za výhodnou?
     
 **Otázky na ČSSD:**
