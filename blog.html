@@ -12,7 +12,7 @@ category: program
 {% for blog in blogs reversed %}
 
 {% if modulo == 0 or forloop.first %}
-  <div class="row blog">
+  <div class="blog">
 {% endif %}
 
 <div class="medium-6 columns{% if forloop.last and modulo == '0' %} end{% endif %}">
