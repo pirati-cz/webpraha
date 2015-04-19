@@ -16,7 +16,7 @@ category: program
 {% endif %}
 
 <div class="medium-6 columns{% if forloop.last and modulo == '0' %} end{% endif %}">
-<img src="{{ blog.image }}"/>
+<a href="{{ blog.url }}"><img src="{{ blog.image }}"/></a>
 <h2><a href="{{ blog.url }}">{{ blog.title }}</a></h2>
 {% if blog.autor %} <span class="radius label">{{ blog.autor}}</span> {% endif %}
 {% if blog.date %}  <span class="radius secondary label">{{ blog.date | date: "%d.%m.%Y" }}</span> {% endif %}
