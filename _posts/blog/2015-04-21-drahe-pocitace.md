@@ -7,7 +7,7 @@ tags:
 - veřejné zakázky
 title: Praha kupuje zbytečně drahé počítače
 image: /assets/images/blog/pocitace.jpg
-autor: Ondřej Profant, Adam Zábranský
+autor: Ondřej Profant
 ---
 
 Rada hl. m. Prahy na dnešním jednání schválila rámcovou smlouvu na dodávku PC za 10 milionů korun. Jedná se o dodávku 600 počítačů s monitory. Piráti považují některé technické požadavky za pochybné a myslí si, že počítače a monitory bylo možné vysoutěžit lépe a levněji.
