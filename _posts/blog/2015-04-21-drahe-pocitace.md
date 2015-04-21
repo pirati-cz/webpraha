@@ -23,7 +23,7 @@ Na výběrovém řízení vidíme několik nedostatků, které zvyšují výsled
 - V zadávacích podmínkách jsou i takové perličky, jako např. požadavek, aby klávesnice a myš byly stejné barvy a značky jako PC.
 - U záručních podmínek je také zbytečné, aby byly jednotné pro všechny komponenty, protože každá má jinou životnost. U notebooku se např. životnost baterie vymezuje zvlášť. (Samozřejmě tím nemyslíme, aby každá součástka měla jinou záruku.)
 
-V zadávacích podmínkách navíc není nijak zohledněna spotřeba počítačů. Výkon počítačů, které nabízí vítězná firma, je 54 W, resp. 84 W. Pro běžnou kancelářskou práci by ale stačilo využít méně výkonné počítače se spotřebou např. 35 W, což by v takovém objemu znamenalo úsporu i několik set tisíc korun ročně.
+V zadávacích podmínkách navíc není nijak zohledněna spotřeba počítačů. Příkon počítačů, které nabízí vítězná firma, je 54 W, resp. 84 W. Pro běžnou kancelářskou práci by ale stačilo využít méně výkonné počítače se spotřebou např. 35 W, což by v takovém objemu znamenalo úsporu i několik set tisíc korun ročně.
 
 Obecně lze říci, že v požadavky vyplývající ze zadávacích podmínek jsou příliš specifické a někdy nesmyslné a zbytečně tak omezují počet možných dodavatelů. Důsledkem je, že se přihlásili jen dva zájemci o zakázku. Vyhrála pak firma Impromat-Computer s.r.o., kterou z půlky vlastní firma IMPROMAT INT., spol. s r. o. Ta je z půlky vlastněna společníkem Petra Kellnera Milanem Maděryčem a z půlky firmou sídlící v Kyperské republice…
 
