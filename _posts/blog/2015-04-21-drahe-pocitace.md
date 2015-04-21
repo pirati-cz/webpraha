@@ -7,7 +7,7 @@ tags:
 - veřejné zakázky
 title: Praha kupuje zbytečně drahé počítače
 image: /assets/images/blog/pocitace.jpg
-autor: Ondřej Profant
+autor: Ondřej Profant, Adam Zábranský
 ---
 
 Rada hl. m. Prahy na dnešním jednání schválila rámcovou smlouvu na dodávku PC za 10 milionů korun. Jedná se o dodávku 600 počítačů s monitory. Piráti považují některé technické požadavky za pochybné a myslí si, že počítače a monitory bylo možné vysoutěžit lépe a levněji.
@@ -25,7 +25,7 @@ Na výběrovém řízení vidíme několik nedostatků, které zvyšují výsled
 
 V zadávacích podmínkách navíc není nijak zohledněna spotřeba počítačů. Výkon počítačů, které nabízí vítězná firma, je 54 W, resp. 84 W. Pro běžnou kancelářskou práci by ale stačilo využít méně výkonné počítače se spotřebou např. 35 W, což by v takovém objemu znamenalo úsporu i několik set tisíc korun ročně.
 
-Obecně lze říci, že v požadavky vyplývající ze zadávacích podmínek jsou příliš specifické a někdy nesmyslné a zbytečně tak omezují počet možných dodavatelů. Důsledkem je, že se přihlásili jen dva zájemci o zakázku. Vyhrála pak firma Impromat-Computer s.r.o., kterou z půlky vlastní firma IMPROMAT INT., spol. s r. o. Ta je z půlky společníkem Petra Kellnera Milanem Maděryčem a z půlky firmou sídlící v Kyperské republice…
+Obecně lze říci, že v požadavky vyplývající ze zadávacích podmínek jsou příliš specifické a někdy nesmyslné a zbytečně tak omezují počet možných dodavatelů. Důsledkem je, že se přihlásili jen dva zájemci o zakázku. Vyhrála pak firma Impromat-Computer s.r.o., kterou z půlky vlastní firma IMPROMAT INT., spol. s r. o. Ta je z půlky vlastněna společníkem Petra Kellnera Milanem Maděryčem a z půlky firmou sídlící v Kyperské republice…
 
 Když si příště dá Magistrát práci s tím, že se vyhne námi zmiňovaným nedostatkům, třeba se mu už nestane, že výsledná cena zakázky bude o 23 % vyšší, než ta odhadovaná.
 
