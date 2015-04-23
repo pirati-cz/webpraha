@@ -18,8 +18,9 @@ Kompletní data jsou v níže přiložených souborech.
 * [Srovnávací tabulka marží v krajských městech s odkazy na smlouvy][tabulka]
 * [Rešerše situace ve zbývajících krajských městech][reserse]
 * Analýza Naši politici, o. s.: [Deja vu z pražského dopravního podniku? Zakázky na SMS jízdenky v regionech ČR][nasi-politici]
+* [Analýza smlouvy na SMS jízdenky: Praha má jednat o slevě][post]
 
 [tabulka]: /assets/static/sms-jizdenky/marze.pdf
 [reserse]: /assets/static/sms-jizdenky/reserse.pdf
 [nasi-politici]: http://www.nasipolitici.cz/cs/kauzy/detail/99-kauza-sms-jizdenek-pokracuje/download/32-nasi-politici-o-s-analyza-zakazek-na-sluzbu-sms-jizdenkek-v-regionech-ceske-republiky-pdf
-
+[post]: http://praha.pirati.cz/smlouva-na-sms-jizdenky.html
