@@ -15,11 +15,11 @@ Následně jsme provedli rozbor kroků, které podnikly rady ODS, ČSSD a TOP 09
 
 Na dnešní tiskové konferenci potom Ondřej Felix, předseda komise Prahy pro ICT, prezentoval vizi řešení systému dopravního odbavení v Praze do budoucna. Ta je plně v souladu s programem Pirátů a má následující východiska:
 
-1) Databáze uživatelů a informační systém, na který budou všechny distribuční kanály navázané, musí být pod kontrolou Prahy. Nepřichází v úvahu, aby databázi uživatelů kontroloval externí dodavatel, na kterém by město bylo zcela závislé, jako tomu bylo v minulosti. 
+1. Databáze uživatelů a informační systém, na který budou všechny distribuční kanály navázané, musí být pod kontrolou Prahy. Nepřichází v úvahu, aby databázi uživatelů kontroloval externí dodavatel, na kterém by město bylo zcela závislé, jako tomu bylo v minulosti. 
 
-2) Svoboda volby způsobu, který cestující použije k dopravnímu odbavení. Vedle sebe budou stát papírové kupony, Opencard v režimu postupného útlumu, sms jízdenky a nové systémy o jejichž provozovateli ještě není rozhodnuto. Nabízejí se bankovní karty, online aplikace, mobilní platby i další řešení. Tyto systémy budou napojené na společnou databázi cestujících pod kontrolou města a navzájem si budou konkurovat. Město tak nebude závislé na jediném dodavateli a nebude nutit své obyvatele používat služby, o které nestojí. 
+2. Svoboda volby způsobu, který cestující použije k dopravnímu odbavení. Vedle sebe budou stát papírové kupony, Opencard v režimu postupného útlumu, sms jízdenky a nové systémy o jejichž provozovateli ještě není rozhodnuto. Nabízejí se bankovní karty, online aplikace, mobilní platby i další řešení. Tyto systémy budou napojené na společnou databázi cestujících pod kontrolou města a navzájem si budou konkurovat. Město tak nebude závislé na jediném dodavateli a nebude nutit své obyvatele používat služby, o které nestojí. 
 
-3) Využití platebních systémů třetích stran. Není jediný důvod, aby Praha financovala vývoj své vlastní elektronické peněženky, nebo aby Praha rozvíjela vlastní bankovní služby. Jako mnohem rozumnější se jeví využít existující platební systémy, které lidé využívají. Hotovost na přepážce. převod z účtu, inkaso, platba mobilem, platba kartou, Paypal... To vše by měl být způsob, jak zaplatit za jízdné. Tento výběr ale rozhodně není konečný a město by mělo průběžně otevírat nové platební kanály. 
+3. Využití platebních systémů třetích stran. Není jediný důvod, aby Praha financovala vývoj své vlastní elektronické peněženky, nebo aby Praha rozvíjela vlastní bankovní služby. Jako mnohem rozumnější se jeví využít existující platební systémy, které lidé využívají. Hotovost na přepážce. převod z účtu, inkaso, platba mobilem, platba kartou, Paypal... To vše by měl být způsob, jak zaplatit za jízdné. Tento výběr ale rozhodně není konečný a město by mělo průběžně otevírat nové platební kanály. 
 
 Kdo to zaplatí?
 
