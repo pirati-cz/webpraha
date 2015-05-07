@@ -2,7 +2,7 @@
 layout: eu
 category: blog
 tags: dotace, EU, Praha
-title: Půl roku v konstruktivní opozici, Piráti skládají učty z působení v pražském zastupitelstvu
+title: Půl roku v konstruktivní opozici. Piráti skládají učty z působení v zastupitelstvu
 image: /assets/images/blog/pirs.jpg
 autor: Mikuláš Ferjenčík
 ---
