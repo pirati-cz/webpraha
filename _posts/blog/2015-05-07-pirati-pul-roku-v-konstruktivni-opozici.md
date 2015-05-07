@@ -7,7 +7,7 @@ image: /assets/images/blog/pirs.jpg
 autor: Mikuláš Ferjenčík
 ---
 
-Zajímá vás, jak Piráti ztrávili první půl rok v pražském zastupitelstvu? Kolik že přesně ti Piráti berou a kdo to platí? Podpořili Piráti odvolání primátorky nebo ne? Jsou Piráti koalice nebo opozice? Kdo vlastně zodpovídá za Opencard? A co na to Jan Tleskač?
+Zajímá vás, jak Piráti strávili první půl rok v pražském zastupitelstvu? Kolik že přesně ti Piráti berou a kdo to platí? Podpořili Piráti odvolání primátorky nebo ne? Jsou Piráti koalice nebo opozice? Kdo vlastně zodpovídá za Opencard? A co na to Jan Tleskač?
 
 Přečtěte si půlroční zprávu zastupitelského klubu Pirátů:
 
