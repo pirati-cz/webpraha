@@ -1,10 +1,10 @@
----
+﻿---
 layout: eu
 category: blog
 tags: rada, korupce, zverejnovani smluv, protikorupcni strategie, otevrenost
 title: Praha nepotřebuje protikorupční strategii, ale protikorupční opatření
 image: /assets/images/blog/korupce-praha.jpg
-autor: Adam Zábranský
+autor: Adam Zábranský, Jakub Michálek, Mikuláš Ferjenčík
 ---
 
 Rada hl. m. Prahy bude na dnešním jednání projednala zadání Protikorupční strategie hlavního města Prahy pro roky 2015 - 2018. Výsledkem předchozí protikorupční strategie je pouze box na podněty v budově magistrátu a neaktualizovaný protikorupční portál.
