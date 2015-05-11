@@ -23,7 +23,7 @@ Rada hl. m. Prahy bude na dnešním jednání projednala zadání Protikorupčn�
 
 - **Vyhrazení zastupitelstvem rozhodovat o majetkoprávních úkonech nad 50 milionů Kč.** V současnosti Rada hl. m. Prahy sama rozhoduje např. o uzavírání nájemních smluv k nemovitostem, i když je nájemné třeba 100 milionů korun ročně. V minulosti tak bylo možné, aby Rada uzavřela smlouvu na pronájem Škodova paláce dokonce za 250 milionů ročně, aniž by o tom rozhodovalo zastupitelstvo.
 
-- **Jmenovité hlasování rady a výborů.** V zápisech ze jednání Rady a  výborů zastupitelstva se dnes neuvádí jmenovité hlasování jednotlivých členů těchto orgánů. V řadě případů potom nelze určit odpovědnost za přijatá rozhodnutí. Jsme přesvědčeni, že jmenovité hlasování členů rady přispěje k větší odpovědnosti za učiněná rozhodnutí.
+- **Jmenovité hlasování rady a výborů.** V zápisech ze jednání Rady a výborů zastupitelstva se dnes neuvádí jmenovité hlasování jednotlivých členů těchto orgánů. V řadě případů potom nelze určit odpovědnost za přijatá rozhodnutí. Jsme přesvědčeni, že jmenovité hlasování členů rady přispěje k větší odpovědnosti za učiněná rozhodnutí.
 
 - **Městské firmy pod kontrolou.** Rada by měla přijmout takové úpravy stanov městských firem, aby byly pod srovnatelnou kontrolou jako orgány města. Přístup k učetnictví a smlouvám městských firem je dnes výrazně horší než je standard celého úřadu. Řada městských firem nezveřejňuje informace, které jim ukládá zveřejnit zákon.
 
