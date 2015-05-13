@@ -1,7 +1,7 @@
----
+﻿---
 layout: eu
 category: blog
-tags: otevrenost, rada, záznam, informace
+tags: otevrenost, rada, zaznam, informace
 title: Úspěch Pirátů: Rada jim musí poskytovat záznamy ze svého jednání
 image: /assets/images/blog/zaznam.jpg
 autor: Adam Zábranský
