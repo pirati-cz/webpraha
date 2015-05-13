@@ -1,4 +1,4 @@
-﻿---
+---
 layout: eu
 category: blog
 tags: opozice, Praha, zastupitelstvo, zprava
