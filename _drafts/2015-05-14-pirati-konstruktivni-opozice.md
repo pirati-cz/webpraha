@@ -106,8 +106,8 @@ Opozice v poměrném systému včetně pražského zastupitelstva je typicky ví
 přičemž různé strany v opozici mají různé a neslučitelné cíle. Například 
 opozice v pražském zastupitelstvu je tvořena antisystémovou stranou KSČM, 
 bývalými vládnoucími stranami ODS a TOP09, které jsou svým vystupováním
-nyní spíše v destruktivní 
-opozici (jiná otázka jsou faktické vazby), a Piráty v konstruktivní opozici. 
+nyní spíše v destruktivní opozici (jiná otázka jsou faktické vazby), 
+a Piráty v konstruktivní opozici. 
 
 Politologové člení opozici na 
 * **konfrontační**, která je nekompromisní a na veřejnosti hlasuje 
@@ -147,7 +147,31 @@ strany na naši činnost. Děláme přitom přesně to, co od nás čekají obč
   zastupitelstva) a některé ​ignoruje (požadavek zveřejňování majetkových 
   přiznání, živý přenos schůzí Rady). 
 
-Radími vládnoucí koalici, aby dělala lepší rozhodnutí, ale neobchodujeme s ní.
+* **Pracujeme v ICT komisi zastupitelstva**. Uvědomujeme si tristní stav v jakém
+je pražská informatika, snažíme se městu v této oblasti pomoci, navrhujeme řešení 
+nejakutnějších problémů a připravujeme dlouhodobá strategická opatření. 
+V souladu se svými volebními sliby pracujeme na řešení problémů spojených s Opencard. 
+Za část práce, kterou v této oblasti odvádíme, jsme placeni v souladu se zákonem 
+o hlavním městě Praze, přičemž hodinovou výši náhrady stanoví zastupitelstvo 
+(mimochodem navrhli jsme její snížení, ale náš návrh neprošel). 
+
+Je pravda, že u Opencard dostáváme
+náhrady na základě pověření od primátorky, ale to rozhodně neznamená, že jsme v koalici, 
+ostatně zástupci ODS i TOP 09 získali velmi dobře placená místa v dozorčích radách městských
+firem, kde se odměny rozhodně neodvíjejí od odpracovaných hodin, ale je stanovena paušálem. 
+Nikdo je neobviňuje, že jsou v koalici. My tyto informace narozdíl od nich zveřejňujeme. 
+
+Radíme vládnoucí koalici, aby dělala lepší rozhodnutí, ale neobchodujeme s ní.
 Získáváme vědomosti a šíříme know-how mezi Piráty v celé republice i v zahraničí.
 Naším cílem je změnit způsob vládnutí a šířit myšlenku úplné otevřenosti magistrátu
 iniciativě a kontrole občanů. 
+
+Naše pozice v zastupitelstvu je jasná a čitelná. Podporujeme všechny návrhy, které jsou 
+v souladu s naším volebním programem, bez ohledu na to, kdo je navrhl. Jsme ochotni spolupracovat
+na konkrétních opatřeních a návrzích se všemi zastupiteli. Pracujeme v oblastech, kde se cítíme kompetentní 
+(řešení Opencard, otevírání pražských dat) a koalice nám dala k práci nějaký prostor. 
+Na zastupitelstvu hlasujeme zcela svobodně a naše hlasování jasně dokládá, že nejsme žádné
+béčko koalice. Nebojíme se kritizovat koalici, když zdržuje protikorupční opatření, ale zrovna tak 
+ji klidně pochválíme například za zastavení podezřelého developerského projektu v Benicích. 
+V neposlední řadě transparentně zveřejňujeme všechno, co v zastupitelstvu děláme a jak jsme za to placeni. 
+To je podle nás konstruktivní opozice. 
