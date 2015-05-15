@@ -7,95 +7,126 @@ image: /assets/images/blog/klub-zastupko.png
 autor: Jakub Michálek
 ---
 
-Piráti v Praze jsou konstruktivní opozicí. V poměrném volebním systému
-to dává největší smysl a doporučuje to přední politolog Giovanni Sartori.
-Jsme tedy v opozici a kontrolujeme vládní koalici, 
-kritizujeme problamatické kroky, předkládáme vlastní návrhy. Piráti stojí
-o prosazení vlastních návrhů. Jasně deklarujeme, že nejsme členy koalice, ale
+Staré politické struktury jako ODS často nálepkují náš postoj konstruktivní opozice
+jako nečitelný. Je to patrně dáno tím, že opozice se historicky v Praze chovala tak,
+že vládnoucí koalici rétoricky kritizovala a žádné vlastní návrhy nepředkládala.
+Zanedbávala ovšem i svoji úlohu důkladné kontroly jednotlivých kauz a leckdy na
+jejich přikrytí spolupracovala. V zastupitelstvu se tak vyvinul systém stran
+ODS, ČSSD a TOP09, kde každý ví na každého něco. 
+
+Piráti mají přístup přesně opačný. V opozici kontrolujeme vládní koalici, 
+kritizujeme problamatické kroky a předkládáme vlastní návrhy. Piráti stojí
+o prosazení vlastních návrhů. Nehodlají však kvůli tomu udělat cokoliv.
+Jasně deklarujeme, že nejsme členy koalice, ale
 máme zájem z konstruktivní opozice ovlivňovat pražskou politiku.
+V poměrném volebním systému tento postoj také dává největší smysl.
 
-### Poměrný systém vede ke spolupráci stran
+### Strany v poměrném systému a motivy k jejich spolupráci
 
-Pražské zastupitelstvo je voleno v poměrném systému. Znamená to, že
-v zastupitelstvu zasedá cca 5 až 7 politických stran. To je velký rozdíl 
-od Velké Británie, kde jsou dvě velké politické strany, které mezi sebou zápolí
+Pražské zastupitelstvo je voleno v poměrném systému. V tomto volebním období
+zasedá v zastupitelstvu 7 volebních stran. Poměrný volební systém je velmi odlišný
+od většinového volebního systému Velké Británie, kde jsou dvě velké politické strany, které mezi sebou zápolí
 a často ani nepotřebují koaličního partnera. V pražském zastupitelstvu kvůli 
 poměrnému systému musí vzniknout koalice dvou až tří stran, která má většinu
 hlasů, sestavuje Radu a schvaluje programové prohlášení. Pokud má vládnoucí
-koalice pouze slabou většinu, hledá podporu i u opozičních politických stran.
+koalice pouze slabou většinu, hledá podporu u konkrétních návrhů i 
+u opozičních politických stran.
 
-Politologové dělí politické strany v zastupitelském orgánu na relevantní a
-nerelevantní. Nerelevantní politickou stranou je taková politická strana, 
-která nemá ani koaliční ani vyděračský potenciál. Stranou, která není 
-podle politologů často relevantní, je například antisystémová strana, se kterou
-nechce žádná jiná politická strana spolupracovat (např. v KSČM).
-
-Piráti nejsou antisystémová strana. Pirátům nevadí demokratický systém ani kapitalismus. 
-Právě naopak: prosazují nejširší zavedení skutečné demokracie včetně její přímé
-formy a uvolnění svobody podnikání a volného trhu. Proto nám vadí, když
-demokracie vypadá jako Potěmkinova vesnice. Demokracie nesmí být fasádou toho, jak si korporace a
- mafiánské struktury píšou na míru zákony naší společnosti. Proto nám vadí,
- když stát z daní lidí nebo z evropských peněz dotuje soukromé podnikání,
- jak jsme toho často na pražském zastupitelstvu svědky (narozdíl od tzv. 
- pravicových stran hlasujeme vždy zásadně proti dotacím pro vzdělávání 
- zaměstnanců Coca Cola nebo na výrobu tyčinek).
- 
-Konečně nás často za antisystémovou či nelegitimní stranu označuje OSA, 
-Protipirátská unie a lobby filmových a hudebních vydavatelství.
-Je pravda, že Piráti vznikli kvůli zásadnímu požadavku na reformu kopírovacího 
-monopolu, který dnes uzamyká kulturu a vědomosti. Ale tento požadavek přeci 
-nelze považovat za boj proti demokratickému systému. Piráti tedy nejsou 
-antisystémová strana. 
-
-Nejsme ani nerelevantní strana ve výše uvedeném smyslu.
-Piráti jsou naopak stranou s vysokým koaličním potenciálem. 
-Oslovila nás jak vítězná politická strana ANO primátorky Adriany Krnáčové, tak
-druhá TOP09 bývalého primátora Tomáše Hudečka. Naše hlasy jsou
-vzhledem k rozložení počtu mandátů vítány, protože vládnoucí koalice má
-křehkou většinu jednoho hlasu.
-
-V systému dvou stran, který je ve Velké Británii, spolu parlamentní strany 
+Odlišnost ve volebním systému má samozřejmě vliv i na ochotu politických stran
+spolupracovat na vládě. V systému dvou stran, který je ve Velké Británii, spolu parlamentní strany 
 zpravidla nespolupracují. Je to dáno tím, že nepotřebují většinu k vládnutí. 
 Naproti tomu v systému poměrného zastoupení spolu politické strany 
 spolupracují, protože vědí, že v budoucnu budou muset utvořit nějakou 
-koalici s jiným partnerem. 
-a proto pro ně platí tím spíše, že z opozici musí spolupracovat.
+koalici s jiným partnerem. V předchozím volebním období Praha zaznamenala 
+dokonce tři koalice – ani v jedné z nich bychom být nechtěli.
+
+### Relevance a systémovost politických stran
+
+Ne všechny politické strany jsou však stejně významné. 
+Politologové dělí politické strany v zastupitelském orgánu na relevantní a
+nerelevantní. Nerelevantní politickou stranou je taková politická strana, 
+která nemá žádný koaliční potenciál (bez ohledu na to, zda je aktuálně
+v koalici či nikoliv), případně nemá na vládnoucí koalici jiné páky (tzv.
+strany s vyděračským potenciálem). Stranou, která není 
+podle politologů relevantní, je typicky antisystémová strana. 
+S antisystémovou stranou typicky nechce žádná jiná politická strana 
+spolupracovat (např. u nás šlo o Republikány Miroslava Sládka, 
+Dělnickou stranu nebo KSČM).
+
+Stejně jako řada dalších lidí jsem si původně myslel, že Piráti jsou
+také antisystémová strana. Politologové ovšem chápou slovo antisystémový trochu jinak.
+Za antisystémovou stranu považují stranu, která chce otevřeně nebo skrytě 
+odstranit demokracii a svobodu.
+Za antisystémovou či nelegitimní stranu nás výslovně či náznakem označuje OSA, 
+nebo Protipirátská unie sdružující filmové vydavatele. 
+
+Je pravda, že Piráti 
+vznikli kvůli zásadnímu požadavku na reformu kopírovacího 
+monopolu, který dnes uzamyká kulturu a vědomosti.  Ale tento požadavek přeci 
+nelze považovat za boj proti demokratickému systému. 
+Pirátům totiž nevadí demokratický systém ani svobodný trh sám o sobě. 
+Právě naopak: prosazují nejširší zavedení skutečné demokracie včetně její přímé
+formy a uvolnění svobody podnikání. 
+
+Antisystémovost Pirátů se projevuje nikoliv vzhledem k systému, který máme na
+papíře a v Ústavě, ale vzhledem k faktickému fungování. Prakticky totiž máme
+až příliš často co do činění s mafiánskou chobotnicí, korupcí a malou domů.
+Demokracie je fasádou toho, jak si korporace a mafiánské struktury píšou na míru 
+zákony naší společnosti. Stát z daní lidí nebo z evropských peněz dotuje 
+vybrané firmy, staré struktury v politických stranách skrz nastrčené firmy 
+vysávají peníze z veřejných zakázek a korporace skrze novely zákonů 
+likvidují svoje konkurenty. Vzhledem k tomuto systému určitě antisystémovou 
+stranou jsme.
+
+Piráti jsou (možná díky právě popsanému názoru) stranou s vysokým koaličním potenciálem. 
+Kdo by nechtěl mít ve své koalici ty Piráty, kteří jsou tak transparentní, že?
+Oslovila nás jak vítězná politická strana ANO primátorky Adriany Krnáčové, tak
+druhá TOP09 bývalého primátora Tomáše Hudečka. Naše opoziční hlasy jsou
+vzhledem k rozložení počtu mandátů cenné, protože vládnoucí koalice má
+křehkou většinu jednoho hlasu.
 
 ### Piráti se rozhodli pro konstruktivní opozici
 
 Piráti před volbami deklarovali, že nevstoupí do koalice s ČSSD (kterou 
 sestavilo ANO a Trojkoalice). ČSSD zde
-vládla dlouhou dubu a spoluzodpovídá za mizernou pověst Magistrátu hl. m. 
-Prahy mezi občany. Pirátům tedy nezbylo, než aby šli do opozice. Zároveň
+vládla dlouhou dubu a spoluzodpovídá za pověst Magistrátu hl. m. 
+Prahy mezi občany. Představili jsme 10 požadavků včetně protikorupčních opatření,
+o kterých jsme s ANO jednali, ale nakonec to vyšumělo do prázdna. Zároveň
 stojíme nohama na zemi a v opozici se potřebujeme naučit, jak úřad a pražská
-politika fakticky funguje. Díky těmto zkušenostem jsme dobře připraveni
-se do budoucna účastnit vládnoucí koalice, podobně jako se jí účastní
-např. Žít Brno s podporou Pirátů.
+politika fakticky funguje. Toto volební odbobí se důkladně seznámíme 
+s fungováním úřadu. Žádný jiný úřad v zemi není tak velký a složitý jako magistrát. 
+Díky těmto informacím a zkušenostem budeme moci v příštích volbách
+nabídnout i jasnou vizi fungování města a hledat pro ni koaliční partnery,
+podobně jako se tak děje v jiných, menších městech 
+(např. Žít Brno s podporou Pirátů).
 
-Opozice v poměrném volebním systému nemá jednoznačného vůdce jako je
-vůdce „nejoddanější“ opozice v britském parlamentu. Opozice je vícestranná,
+Opozice v poměrném volebním systému nemá jednoznačného vůdce, jako je
+v britském parlamentu vůdce opozice „nejoddanější“ jejímu veličenstvu. 
+Opozice v poměrném systému včetně pražského zastupitelstva je typicky vícestranná,
 přičemž různé strany v opozici mají různé a neslučitelné cíle. Například 
 opozice v pražském zastupitelstvu je tvořena antisystémovou stranou KSČM, 
-bývalými vládnoucími stranami ODS a TOP09, které jsou nyní spíše v destruktivní 
-opozici, a Piráty v konstruktivní opozici. 
+bývalými vládnoucími stranami ODS a TOP09, které jsou svým vystupováním
+nyní spíše v destruktivní 
+opozici (jiná otázka jsou faktické vazby), a Piráty v konstruktivní opozici. 
 
-Politolog Giulja člení opozici na 
+Politologové člení opozici na 
 * **konfrontační**, která je nekompromisní a na veřejnosti hlasuje 
   vždy proti, protože nemůže dělat nic jiného, 
 * **smířlivou**, u které koalice shání podporu a opozice díky tomu rozhodnutí
   koalice ovlivňuje a prosazuje část svých návrhů.
 
-Slavný politolog Giovanni Sartori ve své knize v roce 1966 prohlásil, 
-že opozice má být konstruktivní, nikoliv destruktivní. Piráti dostali ve volbách
+Piráti dostali ve volbách
 mandát zastupovat své voliče. Pro mě i další zastupitele bylo nemyslitelné,
 že by se naše činnost omezila na to, abychom jen na zastupitelstvu kritizovali
-vládu. 
+vládu. Ostatně i významný politolog Giovanni Sartori se vyjádřil v tom smyslu, 
+že opozice má být konstruktivní, nikoliv destruktivní. 
 
 ### V konstruktivní opozici prosazujeme Pirátský program
 Úlohou opozice v parlamentní demokracii je kontrolovat vládu a předkládat 
 vlastní návrhy řešení. Jako opoziční zastupitelé jsme odmítli sedět 
 v lavici a soustředit se jen na rétorická cvičení. Kvůli tomu jsme mandát 
-od Pražanů nedostali.
+od Pražanů nedostali. Na druhou stranu v konstruktivní opozici můžeme hlasovat
+přesně tak, jak považujeme za správné.
  
 Cílem našeho působení je, aby naše opoziční práce měla pro občany co největší 
 přínos. Proto jsme ​konstruktivní opozicí​. Práci na magistrátu se věnujeme 
@@ -117,3 +148,6 @@ strany na naši činnost. Děláme přitom přesně to, co od nás čekají obč
   přiznání, živý přenos schůzí Rady). 
 
 Radími vládnoucí koalici, aby dělala lepší rozhodnutí, ale neobchodujeme s ní.
+Získáváme vědomosti a šíříme know-how mezi Piráty v celé republice i v zahraničí.
+Naším cílem je změnit způsob vládnutí a šířit myšlenku úplné otevřenosti magistrátu
+iniciativě a kontrole občanů. 
