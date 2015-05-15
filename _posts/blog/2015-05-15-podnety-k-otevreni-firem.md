@@ -17,5 +17,6 @@ Piráti odeslali 14. května Radě hl. m. Prahy podněty ke zlepšení správy a
 Doporučení Pirátů jsou adresována hlavně radnímu pro majetek Michalu Haškovi, který má na starosti i akciové portfolio hl. m. Prahy. Rada má nyní dle zákona 30 dní na odpověď. Praha je většinovým akcionářem 14 akciových společností (9 z nich vlastní ze 100 %) a u 3 společností je akcionářem menšinovým. Tyto firmy pak často mají několik dceřiných, popř. i vnukovských společností. Fungují velmi netransparentním způsobem, přitom hospodaří s majetkem v hodnotě několika set miliard korun.
 
 [Podnět pirátských zastupitelů pro Radu hl. m. Prahy ve věci vlastnické politiky městských společností](https://github.com/pirati-cz/KlubPraha/blob/420449fb00e9a50be1dbfeb625c2fbc471f4e4d3/spisy/2015/52-doporuceni-k-mestskym-firmam/1-doporuceni/main.pdf)
+
 [Přehled akciového portfolia hl. m. Prahy](/assets/images/blog/prazskefirmy-prehled.png)
 
