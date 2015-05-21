@@ -24,6 +24,9 @@ Výbor pro územní rozvoj se usnesl na přerušení projednávání změny, aby
 *Mikuláš Ferjenčík doplňuje: "Mám radost, že na jednání výboru jasně zaznělo z úst předsedy výboru Jana Slezáka (ČSSD), že developer nemá na schválení změny ani případné odškodné žádný právní nárok. Věřím, že zastupitelstvo Prahy 12 se nyní svobodně rozhodne, zda schválení změny podpoří. Osobně jim doporučuji dát přednost louce."*
 
 odkazy:
+
+[Celý příběh této změny územního plánu na Pirátských listech](http://www.piratskelisty.cz/clanek-1419-chcete-byt-milionarem-kupte-si-louku)
+
 [Cenová mapa pozemků v Praze](http://mpp.praha.eu/app/map/cenova-mapa/)
 
 [Katalog změn](http://wgp.urm.cz/app/tms/aplk/db/zmenyup/zmeny/index.php)
