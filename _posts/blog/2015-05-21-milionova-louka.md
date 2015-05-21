@@ -3,7 +3,7 @@ layout: eu
 category: blog
 tags: Praha, územní plán, změna, developer, parcela
 title: Stamilionová louka v Komořanech
-image: /assets/images/blog/milionova-louka.png
+image: /assets/images/blog/cenova-mapa.png
 autor: Mikuláš Ferjenčík
 ---
 
