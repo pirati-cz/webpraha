@@ -15,9 +15,9 @@ V případě schválení změny by se cena pozemku pohybovala okolo 150 milionů
 
 Výsledkem této změny v případě jejího schválení bude následující:
 
-Místní obyvatelé přijdou o hojně využívanou louku, zhorší se už dnes katastrofální dopravní situace v Komořanech (Komořanská je každé ráno ucpaná) a navýší se nároky na už dnes nedostatečnou občanskou vybavenost.
+Místní obyvatelé přijdou o hojně využívanou louku, zhorší se už dnes katastrofální dopravní situace v Komořanech (Komořanská je každé ráno ucpaná) a navýší se nároky na nedostatečnou občanskou vybavenost.
 
-*Mikuláš Ferjenčík, zastupitel Pirátů, k navrhované změně územního plánu říká: "Jsem zásadně proti tomu, aby město vytvářelo stamilionové majetky z luk polí a lesů, které skoupily velcí developři. Je naprosto nepřijatelné, aby zisk ze změn územního plánu obdržel soukromník, a město neslo náklady na výstavbu infrastruktury a zajišťování dopravní obslužnosti, zvláště ve chvíli, kdy je pozemků určených k zastavění v Komořanech dostatek."*
+*Mikuláš Ferjenčík, zastupitel Pirátů, k navrhované změně územního plánu říká: "Jsem zásadně proti tomu, aby město vytvářelo stamilionové majetky z luk polí a lesů, které skoupily velcí developeři. Je naprosto nepřijatelné, aby zisk ze změn územního plánu obdržel soukromník, a město neslo náklady na výstavbu infrastruktury a zajišťování dopravní obslužnosti, zvláště ve chvíli, kdy je pozemků určených k zastavění v Komořanech dostatek."*
 
 Výbor pro územní rozvoj se usnesl na přerušení projednávání změny, aby umožnil vyjádření ke změně zastupitelstvu městské části Praha 12.
 
