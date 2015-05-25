@@ -3,7 +3,7 @@ layout: eu
 category: blog
 tags: opencard
 title: Prosazujeme Pirátský program z konstruktivní opozice
-image: /assets/images/blog/klub-zastupko.png
+image: /assets/images/blog/klub-zastupko.jpg
 autor: Jakub Michálek
 ---
 
