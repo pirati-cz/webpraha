@@ -157,8 +157,8 @@ o hlavním městě Praze, přičemž hodinovou výši náhrady stanoví zastupit
 
 Je pravda, že u Opencard dostáváme
 náhrady na základě pověření od primátorky, ale to rozhodně neznamená, že jsme v koalici, 
-ostatně zástupci ODS i TOP 09 získali velmi dobře placená místa v dozorčích radách městských
-firem, kde se odměny rozhodně neodvíjejí od odpracovaných hodin, ale je stanovena paušálem. 
+ostatně zástupci ODS i TOP 09 získali placená místa v dozorčích radách městských
+firem, kde se odměna rozhodně neodvíjí od odpracovaných hodin, ale je stanovena paušálem. 
 Nikdo je neobviňuje, že jsou v koalici. My tyto informace narozdíl od nich zveřejňujeme. 
 
 Radíme vládnoucí koalici, aby dělala lepší rozhodnutí, ale neobchodujeme s ní.
