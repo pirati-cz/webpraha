@@ -107,7 +107,8 @@ bývalými vládnoucími stranami ODS a TOP09, které jsou svým vystupováním
 nyní spíše v destruktivní opozici (jiná otázka jsou faktické vazby), 
 a Piráty v konstruktivní opozici. 
 
-Politologové člení opozici na 
+Politologové člení opozici na
+ 
 * **konfrontační**, která je nekompromisní a na veřejnosti hlasuje 
   vždy proti, protože nemůže dělat nic jiného, 
 * **smířlivou**, u které koalice shání podporu a opozice díky tomu rozhodnutí
@@ -159,6 +160,8 @@ ostatně zástupci ODS i TOP 09 získali velmi dobře placená místa v [dozorč
 Nikdo je neobviňuje, že jsou v koalici. My tyto informace narozdíl od nich zveřejňujeme. 
 
 Radíme vládnoucí koalici, aby dělala lepší rozhodnutí, ale neobchodujeme s ní.
+Upozorňujeme na nezákonnosti a nehospodárnosti, se kterými se na Magistrátu občas
+setkáváme.
 Získáváme vědomosti a šíříme know-how mezi Piráty v celé republice i v zahraničí.
 Naším cílem je změnit způsob vládnutí a šířit myšlenku úplné otevřenosti magistrátu
 iniciativě a kontrole občanů. 
@@ -167,8 +170,11 @@ Naše pozice v zastupitelstvu je jasná a čitelná. Podporujeme všechny návrh
 v souladu s naším volebním programem, bez ohledu na to, kdo je navrhl. Jsme ochotni spolupracovat
 na konkrétních opatřeních a návrzích se všemi zastupiteli. Pracujeme v oblastech, kde se cítíme kompetentní 
 (řešení Opencard, otevírání pražských dat) a koalice nám dala k práci nějaký prostor. 
+Snažíme se prošetřit kauzy, které za minulého politického vedení zůstaly nedořešeny
+(Škodův palác, Opencard apod.).
 Na zastupitelstvu hlasujeme zcela svobodně a naše hlasování jasně dokládá, že nejsme žádné
-béčko koalice. Nebojíme se kritizovat koalici, když zdržuje protikorupční opatření, ale zrovna tak 
+béčko koalice. Nebojíme se kritizovat koalici, když zdržuje protikorupční opatření, a nijak jí
+nepodlézáme, ale zrovna tak 
 ji klidně pochválíme například za zastavení podezřelého developerského projektu v Benicích. 
 V neposlední řadě transparentně zveřejňujeme všechno, co v zastupitelstvu děláme a jak jsme za to placeni. 
 To je podle nás konstruktivní opozice. 
