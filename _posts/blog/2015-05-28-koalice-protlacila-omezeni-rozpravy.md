@@ -9,9 +9,9 @@ image: /assets/images/blog/proti-cenzure.jpg
 autor: Jakub Michálek, Adam Zábranský
 ---
 
-Pražská koalice zavedla přísný 3minutový limit na to, aby opoziční zastupitel 
+Pražská koalice zavedla **přísný 3minutový limit** na to, aby opoziční zastupitel 
 představil návrh na zařazení bodu do programu zasedání zastupitelstva. 
-Jednání zastupitelstva provázely protesty opozice, Piráti návrh označili za nedemokratický. 
+Jednání zastupitelstva provázely **protesty opozice**, Piráti označili návrh za **nedemokratický**. 
 
 > „Rozprava o programu je jediným okamžikem, kdy může opozice navrhnout a 
 vysvětlit témata, která považuje za zásadní – pražská koalice totiž opoziční návrhy
@@ -34,8 +34,8 @@ vede jeho členka Petra Kolínská (SZ). Zastupitel Pirátů Mikuláš Ferjenč�
 označil její přístup za pokrytecký, protože sama v minulosti blokovala návrhy, 
 kvůli tomu, že nebyly předloženy do jejího výboru.
 
-Koalice smetla i protikorupční opatření. Piráti předložili dalších 10 návrhů 
-na změnu jednacího řádu, které obsahovaly:
+Koalice smetla i protikorupční opatření. Piráti předložili dalších 10 
+[návrhů na změnu jednacího řádu][pm], které obsahovaly:
 
 * **protikorupční opatření** (jmenovité hlasování Rady, přikládání položkových rozpočtů,
 stanovisek výborů a komisí do důvodové zprávy, prostor pro odpověd na dotazy zastupitelů), 
@@ -44,7 +44,8 @@ možnost výjimečného vystoupení hostů a právo občanů vystupovat k bodu, 
 * **zefektivnění jednání zastupitelstva** (zkrácení půlhodinových projevů na 
 čtvrt hodiny, neumožnění dlouhého čtení návrhů, které koalice občas praktikuje).
 
-Návrhy Pirátů zohledňovaly doporučení renomované organizace Kohovolit.cz. Návrhy Pirátů byly zaslány 
+Návrhy Pirátů zohledňovaly doporučení renomované organizace [Kohovolit.cz][kohovolit]. 
+Návrhy Pirátů byly zaslány 
 koalici dostatečnou dobu předem. Klub Pirátů spolu s TOP09 dokonce požádal o dodatečný čas,
 aby se s návrhem mohli seznámit opravdu všichni koaliční zastupitelé a kluby daly své
 závazné stanovisko k jednotlivým návrhům Pirátů. 
@@ -54,6 +55,13 @@ buldozer. Koalice zamítla všechny z předložených návrhů Pirátů, aniž b
 jakékoliv argumenty proti návrhům Pirátů,“ říká Adam Zábranský, který návrhy klubu
 Pirátů přednesl. Ostatní politické strany nepředložily žádné jiné návrhy.
 
+**Dokumenty**
+
+* [Pozměňovací návrhy Pirátů k jednacímu řádu][pm]
+* [Komparace jednacích řádů sdružení Kohovolit.cz][kohovolit]
+
+[pm]: https://github.com/pirati-cz/KlubPraha/raw/master/spisy/2015/66-jednaci-rad-zastupitelstva/navrhy-jdr.docx
+[kohovolit]: http://kohovolit.eu/wp/kamil/policy-paper-praha.pdf
 ---
 
 *V Praze vládne koalice ANO, ČSSD a Trojkoalice (Strany zelených, KDU-CSL a STAN). 
