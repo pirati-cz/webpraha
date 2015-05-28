@@ -59,6 +59,7 @@ Pirátů přednesl. Ostatní politické strany nepředložily žádné jiné ná
 
 * [Pozměňovací návrhy Pirátů k jednacímu řádu][pm]
 * [Komparace jednacích řádů sdružení Kohovolit.cz][kohovolit]
+* [Fotky ze zasedání](https://www.flickr.com/photos/pirati/sets/72157653186024468)
 
 [pm]: https://github.com/pirati-cz/KlubPraha/raw/master/spisy/2015/66-jednaci-rad-zastupitelstva/navrhy-jdr.docx
 [kohovolit]: http://kohovolit.eu/wp/kamil/policy-paper-praha.pdf
