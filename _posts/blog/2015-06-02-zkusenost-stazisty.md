@@ -7,7 +7,7 @@ title: Stážista si zkusil týden na magistrátu
 image: /assets/images/blog/dvere.jpg
 autor: Petr Běhounek
 ---
-*Student Petr Běhounek, který jako stážista pomáhal nejprve v Pirátském centru a později v naší kanceláři na Mariánském náměstí sepsal své základní postřehy v tomto krátkém článku.*
+*Student Petr Běhounek, který jako stážista pomáhal nejprve v Pirátském centru a později v naší kanceláři na Mariánském náměstí, sepsal své základní postřehy v tomto krátkém článku.*
 
 Získal jsem praxi u České pirátské strany a dostal jsem příležitost nahlédnout pod pokličku magistrátu hl. m. Prahy. Vidět jak funguje řízení zastupitelského klubu a města. Jak probíhá příprava klubu na jednání zastupitelstva a samotné jednání.
 
