@@ -13,7 +13,7 @@ Praha každý rok vypisuje grantové programy na podporu sportu. Na rok 2015 byl
 
 ![Celkový objem grantů na jednotlivé sporty](/assets/images/blog/sport-objem-dotaci.png)
 
-Co se týče celkové výše grantů na jednotlivé sporty, jasně vedou fotbal (50 milionů Kč) a hokej (20 milionů Kč), které sebraly téměř půlku z celkové výše grantů v této oblasti (viz graf výše). Tak silná dominance je na první pohled zvláštní. V (popisu grantu)[http://www.praha.eu/public/24/f2/34/1903690_523294_Celomestske_programy_podpory_sportu_pro_rok_2015.pdf] je nastíněna metodika stanovení výše podpory pro tento program:
+Co se týče celkové výše grantů na jednotlivé sporty, jasně vedou fotbal (50 milionů Kč) a hokej (20 milionů Kč), které sebraly téměř půlku z celkové výše grantů v této oblasti (viz graf výše). Tak silná dominance je na první pohled zvláštní. V [popisu grantu](http://www.praha.eu/public/24/f2/34/1903690_523294_Celomestske_programy_podpory_sportu_pro_rok_2015.pdf) je nastíněna metodika stanovení výše podpory pro tento program:
 
 > Přepočet na základě celkové alokace a celkového počtu žadatelů pro daný rok. Při určení výše podpory pro každého žadatele bude přihlédnuto k počtu členů z řad dětí a mládeže, úrovni soutěží, k finanční náročnosti daného sportu či propracovanosti a systémovosti sportovní výchovy mládeže (např. akademie či tréninková centra).
 
