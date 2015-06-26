@@ -3,7 +3,7 @@ layout: eu
 category: blog
 tags: Evropa
 title: Co nám může přinést reforma autorského práva?
-image:cats.jpg
+image: cats.jpg
 autor: Jakub Michálek, Jan Loužek
 ---
 
