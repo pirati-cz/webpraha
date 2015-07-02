@@ -7,17 +7,17 @@ image: /assets/images/blog/zastupitele-strecha.jpg
 autor: Jakub Michálek
 ---
 
-Piráti jako jediná politická strana v pražském zastupitelstvu zveřejňují na webu **kompletní majetkové přiznání** všech svých zastupitelů. Jdou tak podstatně dál než je požadavek etického kodexu zastupitelstva a usilují, aby se jeho podmínky zpřísnily i pro ostatní zastupitele. Dnes totiž etický kodex nezaručuje ani to, aby se občané dozvěděli změnách v majetku během zastupitelování.
+Piráti jako jediná politická strana v pražském zastupitelstvu zveřejňují na webu **kompletní majetkové přiznání** všech svých zastupitelů. Jdou tak podstatně dál, než je požadavek etického kodexu zastupitelstva. Usilují o to, aby se jeho podmínky zpřísnily i pro ostatní zastupitele. Dnes totiž etický kodex nezaručuje ani to, aby se občané dozvěděli významných změnách v majetku zastupitelů.
 
-Všichni pražští zastupitelé měli do 1. červenci odevzdat oznámení o činnosti, příjmech a darech podle etického kodexu zastupitelstva. Piráti už řadu měsíců usilují o to, aby byla tato oznámení zveřejňována na internetových stránkách.
+Všichni pražští zastupitelé měli podle etického kodexu zastupitelstva povinnost do 1. červenci odevzdat oznámení o činnosti, příjmech a darech podle etického kodexu zastupitelstva. Piráti už řadu měsíců usilují o to, aby byla tato oznámení zveřejňována na internetových stránkách. Dosud ale marně.
 
-(Nicméně kontrolní výbor dala pražská koalice spolupracující ODS, za kterou ho vede Jaroslava Janderová. Ta měla po 1. červenci zveřejnit všechny zastupitele, kteří neodevzdali oznámení podle etického kodexu, ale bohužel tak neučinila, protože je na dovolené.)
+(Kontrolní výbor dala pražská koalice spolupracující ODS, za kterou ho vede Jaroslava Janderová. Ta měla po 1. červenci zveřejnit všechny zastupitele, kteří neodevzdali oznámení podle etického kodexu. Bohužel tak neučinila, protože je na dovolené.)
 
-Přestože etický kodex vyžaduje jen velmi strohé informace, podle zjištění Pirátů jsou zastupitelé, kteří oznámení neodevzdali anebo v něm vůbec nevyplnili, jaké příjmy dostali z dozorčích rad městských firem anebo činnosti jejich menžela nebo manželky. Za uvedení nepravdivých informací hrozí zastupitelům maximálně to, že je zastupitelstvo odvolá z výboru.
+Přestože etický kodex vyžaduje jen úplně základní informace, podle zjištění Pirátů někteří zastupitelé oznámení včas neodevzdali anebo v něm vůbec nevyplnili, jaké příjmy dostali z dozorčích rad městských firem či jiné povinné údaje. Za uvedení nepravdivých informací hrozí zastupitelům maximálně to, že je zastupitelstvo odvolá z výboru.
 
 Piráti však chtějí jít ještě mnohem dál, aby byla majetková přiznání skutečným nástrojem transparence a aby nedocházelo k zázračným zbohatnutím zastupitelů.
 
-> „Současná oznámení podle etického kodexu jsou parodií na transparenci. Není v nich uveden skutečný majetek zastupitelů a navíc nepodléhají účinné veřejné kontrole, protože není možné si je okopírovat a zkontrolovat je ani pro členy kontrolního výboru. Piráti proto publikují vlastní kompletní majetková přiznání každého Pirátského zastupitele na webu a totéž požadují po ostatních zastupitelích.“
+> „Současná oznámení podle etického kodexu jsou parodií na transparenci. Není v nich uveden skutečný majetek zastupitelů a navíc nepodléhají účinné veřejné kontrole, protože není možné si je okopírovat a zkontrolovat je ani pro členy kontrolního výboru. Piráti proto publikují vlastní kompletní majetková přiznání každého Pirátského zastupitele na webu a totéž požadují po ostatních zastupitelích. Naše majetková přiznání navíc udržujeme aktuální průběžně, nikoliv jednou za rok.“
 
 
 |	**Dokument**     | Michálek  |   Profant | Ferjenčík |	Zábranský |
@@ -42,4 +42,4 @@ Piráti však chtějí jít ještě mnohem dál, aby byla majetková přiznání
 [mp-adam]: https://github.com/pirati-cz/KlubPraha/blob/master/priznani/adam-zabransky.md
 
 
-Piráti již dříve [transparentně zveřejnili příjmy](/transparentni-nahrady.html), které jim náleží od města jako náhrada výdělku. Výkaz příjmů za první půl roku obsahuje [půlroční zpráva](/assets/static/pulrocni-zprava-piratu-v-zhmp.pdf). Během několika dní bude také spuštěno veřejné účetnictví, do kterého bude moci nahlížet každý občan online a zjistit aktuální výši příjmů.
+Piráti již dříve [transparentně zveřejnili příjmy](/transparentni-nahrady.html), které jim náleží od města jako náhrada výdělku. Výkaz příjmů za první půl roku obsahuje [půlroční zpráva](/assets/static/pulrocni-zprava-piratu-v-zhmp.pdf). Během několika dní také Piráti spustí své veřejné účetnictví klubu, do kterého bude moci nahlížet každý občan online a zjistit aktuální výši příjmů.
