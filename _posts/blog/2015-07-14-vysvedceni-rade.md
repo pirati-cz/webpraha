@@ -7,7 +7,9 @@ image: /assets/images/blog/adriana-krnacova.jpg
 autor: Jakub Michálek, Mikuláš Ferjenčík
 ---
 
-*ANO 2011*
+Týdeník Euro nás požádal, abychom oznámkovali pražské radní. Ke známkám jsme přidali i slovní hodnocení a výsledné vysvědčení rady z pohledu Pirátů nyní i zveřejňujeme. 
+
+_ANO 2011_
 
 **Adriana Krnáčová** (primátorka, oblast legislativy, veřejné správy, informatiky a protikorupčních opatření) - věnuje se na rozdíl od předchozích primátorů intenzivněji řešení velkých kauz, nemá však jasnou strategii v kauze Škodova paláce; má problémy v komunikaci na veřejnosti a zastupitelstvu (s Piráty komunikuje dobře). Díky ní se můžeme podílet na řešení věcí v informatice, tedy reálně mnoho věcí zlepšovat. Neprosadila otevření rady (streaming, ani přístup opozice na jednání) ani jmenovité hlasování rady ani týmy pro vyšetřování závažných kauz. Naopak podpořila návrh Pirátů na lepší zveřejňování smluv a prosadila ho v Radě. Komise ICT s předsedou Ondřejem Felixem pracuje lépe, než jsme čekali.  **Známka: 3+**
 
@@ -19,7 +21,7 @@ autor: Jakub Michálek, Mikuláš Ferjenčík
 
 **Radek Lacko** (radní pro zdravotnictví) - vidět byl prakticky jen v souvislosti s odvoláním šéfa pražské záchranky. Samotné odvolání nezpochybňujeme, ale z odstupu se postup radního a rady v této věci jeví jako nepodařená groteska. Počínaje přístupem ke stávkujícím, kteří čekali 15 hodin, než se dostane situace v záchranné službě na pořad jednání zastupitelstva konče odvoláním ředitele na jednání rady, na kterém byla řediteli původně navržena odměna. **Známka: 4**
 
-*ČSSD*
+_ČSSD_
 
 **Petr Dolínek** (náměstek pro dopravu a evropské fondy) - snaží se dotahovat věci do konce a vycházet dalším zastupitelům vstříc, předkládá hodně tisků narychlo, takže bohužel často není možné důsledně projít schvalované projekty z evropských peněz, obáváme se, že některé z nich jsou problematické. Pochybnosti máme o projektu rekonstrukce Libenského mostu, naopak podporujeme rychlodráhu na letiště i stavbu metra D a postup města v těchto věcech je seriozní, ceníme si podpory pro open data, pro alternativní způsoby dopravy. **Známka  2-**
 
@@ -27,7 +29,7 @@ autor: Jakub Michálek, Mikuláš Ferjenčík
 
 **Irena Ropková** (radní pro školství) - jedná věcně, dobře vystupuje, nezaznamenali jsme žádný problém, ale ani žádné jasné plány. **Známka: 2**
 
-*Trojkoalice*
+_Trojkoalice_
 
 **Matěj Stropnický** (náměstek pro územní rozvoj) - ruší pořizování problematických změn územního plánu, snaží se ve věci stavebních předpisů, navenek je poněkud sebestředný, nezvládl administrativu s právními posudky ohledně stavebních předpisů. Otevřeně komunikuje se zastupiteli. **Známka: 2**
 
