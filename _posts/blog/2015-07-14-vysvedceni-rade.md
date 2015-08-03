@@ -19,7 +19,7 @@ _ANO 2011_
 
 **Libor Hadrava** (radní pro bezpečnost) - Oceňujeme, že po mnoha letech není v programovém prohlášení Rady rozšiřování kamerového systému. Radní nicméně prosazoval problematické bezpečnostní turnikety na magistrátu, které byly nakonec uloženy k ledu. Měl velkou snahu prošetřit a vysvětlit situaci kolem kontaminace vody. Vedle funkcí na magistrátu má také funkci radního na Praze 13 s Davidem Vodrážkou v koalici, která je skanzenem arogance moci pražské ODS. Neřešil kauzu protekčního parkování zastupitelů na Praze 3. **Známka: 3** 
 
-**Radek Lacko** (radní pro zdravotnictví) - vidět byl prakticky jen v souvislosti s odvoláním šéfa pražské záchranky. Samotné odvolání nezpochybňujeme, ale z odstupu se postup radního a rady v této věci jeví jako nepodařená groteska. Počínaje přístupem ke stávkujícím, kteří čekali 15 hodin, než se dostane situace v záchranné službě na pořad jednání zastupitelstva konče odvoláním ředitele na jednání rady, na kterém byla řediteli původně navržena odměna. **Známka: 4**
+**Radek Lacko** (radní pro zdravotnictví) - vidět byl prakticky jen v souvislosti s odvoláním šéfa pražské záchranky. Samotné odvolání nezpochybňujeme, ale z odstupu se postup radního a rady v této věci jeví jako nepodařená groteska. Počínaje přístupem ke stávkujícím, kteří čekali 15 hodin, než se dostane situace v záchranné službě na pořad jednání zastupitelstva, konče odvoláním ředitele na jednání rady, na kterém byla řediteli původně navržena odměna. **Známka: 4**
 
 _ČSSD_
 
