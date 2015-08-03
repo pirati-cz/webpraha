@@ -19,4 +19,4 @@ autor: Mikuláš Ferjenčík
 
 *"Politická odpovědnost v této věci je zcela jasná a Karel Březina by měl okamžitě skončit. Důležité je, aby se trestní řízení nezametlo pod koberec. V souvislosti s nabízením úplatku si chceme vyžádat policejní protokoly pro kontrolní výbor a důkladně prošetřit související změny územního plánu," říká Jakub Michálek, předseda zastupitelského klubu Pirátů.*
 
-*"Nechceme být v jednom zastupitelstvu s odsouzeným podvodníkem, o kterém se navíc v policejním odposlechu říká, že nabízí uplatky. Jestli pražská koalice myslí boj s korupcí vážně, nemůže v ní setrvávat Karel Březina," říká zastupitel Pirátů, Adam Zábranský.*
+*"Nechceme být v jednom zastupitelstvu s odsouzeným podvodníkem, o kterém se navíc v policejním odposlechu říká, že nabízí úplatky. Jestli pražská koalice myslí boj s korupcí vážně, nemůže v ní setrvávat Karel Březina," říká zastupitel Pirátů, Adam Zábranský.*
