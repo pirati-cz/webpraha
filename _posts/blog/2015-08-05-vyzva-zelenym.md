@@ -40,4 +40,4 @@ Za zastupitelský klub Pirátů:
 
 Mikuláš Ferjenčík, zastupitel Pirátů, bývalý volič Strany zelených, mikulas.ferjencik@pirati.cz, 737 943 770
 
-K výzvě se připojil i spolek [Mladí zelení](www.mladizeleni.cz) usnesením svého předsednictva a jménem svého mluvčího Tomáše Křemena, info@mladizeleni.cz, 731 345 162
+K výzvě se připojil i spolek [Mladí zelení](http://www.mladizeleni.cz) usnesením svého předsednictva a jménem svého mluvčího Tomáše Křemena, info@mladizeleni.cz, 731 345 162
