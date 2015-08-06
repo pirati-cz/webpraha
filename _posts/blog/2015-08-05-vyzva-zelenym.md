@@ -2,7 +2,7 @@
 layout: eu
 category: blog
 tags: korupce, Březina, Zelení
-title: Výzva Straně zelených: pošlete Březinu do politického důchodu!
+title: "Výzva Straně zelených: pošlete Březinu do politického důchodu!"
 image: /assets/images/blog/duchod-brezina.jpg
 autor: Mikuláš Ferjenčík
 ---
