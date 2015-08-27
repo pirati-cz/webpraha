@@ -3,7 +3,7 @@ layout:   eu
 category: blog
 tags:     ict, informatika
 title:    Doporučení Pirátů Radě hl. m. Prahy pro oblast ICT
-image:    /assets/images/blog/
+image:    /assets/images/blog/itfail.jpg 
 autor:    Ondřej Profant
 ---
 
