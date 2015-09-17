@@ -19,5 +19,6 @@ Piráti s takovýmto způsobem obsazování dozorčích rad nesouhlasí. „Už 
 
 ## Odkazy
 
+* [Zdrojová data k analýze](https://github.com/pirati-cz/KlubPraha/raw/master/spisy/2015/20-prehled-o-mestskych-firmach/dozorci-rady.xlsx)
 * [Piráti doporučují otevřít pražské firmy lepší kontrole](https://praha.pirati.cz/podnety-k-otevreni-firem.html)
 * [Přehled akciového portfolia hl. m. Prahy](https://praha.pirati.cz/assets/images/blog/prazskefirmy-prehled.png)
