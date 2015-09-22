@@ -2,7 +2,7 @@
 layout:   eu
 category: blog
 tags:     informatika, rada
-title:    Praha zbytečně utrácí 17 milionů za produkty Microsoftu, kterých se už dávno měla zbavit
+title:    Praha zbytečně utrácí 17 milionů za produkty Microsoftu.
 image:    /assets/images/blog/office.png
 autor:    Ondřej Profant
 ---
