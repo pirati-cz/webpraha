@@ -12,7 +12,7 @@ Ve čtvrtek 10. září po prázdninové pauze opět zasedalo zastupitelstvo hl.
 Návrhy opozice prý na program nepatří
 ----------------------------------
 
-Koalice opět nepodpořila ani jeden návrh opozice na rozšíření programu zasedání. Jen Piráti jich přitom měli 5, viz naše [prohlášení k zasedání] (https://praha.pirati.cz/stanovisko-piratu.html). Bizarní je, že koalice neschválila ani návrh na zařazení bodu o kauze Karla Březiny, který na pořad jednání navrhl kontrolní výbor zastupitelstva. Piráti hlasovali o odvolání všech radních za ČSSD, nicméně k odvolání žádného radního nakonec nedošlo.
+Koalice opět nepodpořila ani jeden návrh opozice na rozšíření programu zasedání. Jen Piráti jich přitom měli 5, viz naše [prohlášení k zasedání](https://praha.pirati.cz/stanovisko-piratu.html). Bizarní je, že koalice neschválila ani návrh na zařazení bodu o kauze Karla Březiny, který na pořad jednání navrhl kontrolní výbor zastupitelstva. Piráti hlasovali o odvolání všech radních za ČSSD, nicméně k odvolání žádného radního nakonec nedošlo.
 
 Hospodárná IT zakázka a zveřejňování materiálů výborů
 ----------------------------------
