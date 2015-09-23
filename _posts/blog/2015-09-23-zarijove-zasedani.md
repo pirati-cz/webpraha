@@ -1,9 +1,9 @@
-﻿---
+---
 layout:   eu
 category: blog
 tags:     zastupitelstvo
 title:    Koalice v Praze jede opět ve starých kolejích
-image:    /assets/images/blog/proti-cenzure.jpg	
+image:    /assets/images/blog/proti-cenzure.jpg
 autor:    Adam Zábranský
 ---
 
