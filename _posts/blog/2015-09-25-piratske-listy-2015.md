@@ -32,9 +32,10 @@ Balíky si vyzvedněte na následujících místech:
 * **Praha 1**, Mariánské nám. 2, kancelář klubu zastupitelů, po-pá 10-18  
   možnost parkovat na přenosnou parkovací kartu zastupitelského klubu v ulici U Radnice, Plátnéřská, 
   Linhartská (modrá zóna, vyhrazená stání MHMP)
-* **Praha 3**, Pirátské centrum, Rehořova 19, Praha 3, út-čt 11-17  
+* **Praha 3**, Pirátské centrum, Řehořova 19, Praha 3, út-čt 11-17  
   služba: [Mikuláš Ferjenčík][miki], dále dle domluvy tel. 737 943 770   
   možnost parkovat na dvoře, který na vyžádání otevřeme
+* **Praha 9**, Dana Balcarová, ulice Pod Krocínkou
 * **Praha 10**, Ivan Mikoláš, dohodou na tel. 603 454 341
 * seznam je průběžně rozšiřován
 
