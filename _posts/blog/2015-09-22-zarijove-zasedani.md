@@ -7,7 +7,7 @@ image:    /assets/images/blog/proti-cenzure.jpg
 autor:    Adam Zábranský
 ---
 
-Ve čtvrtek 10. září po prázdninové pauze opět zasedalo zastupitelstvo hl. m. Prahy. Ačkoliv jsme hlasovali pro odvolání radních za ČSSD, nikdo nakonec odvolán nebyl. Koalice opět nepodpořila ani jeden návrh opozice na zařazení bodů do programu zasedání, Pirátům se ale podařilo úspěšně prosadit pozměňovací návrh k IT zakázce za 100 milionů. Radní Novákové se cukala při dotazu, zda nepovažuje dosazení svého syna do dozorčí rady ražského teplárenského holdingu za nepřijatelné. A zastupitelstvo schválilo povinnost zveřejňování materiálů na jednání výborů předem. Nejen o tom zářijové zasedání.
+Ve čtvrtek 10. září po prázdninové pauze opět zasedalo zastupitelstvo hl. m. Prahy. Ačkoliv jsme hlasovali pro odvolání radních za ČSSD, nikdo nakonec odvolán nebyl. Koalice opět nepodpořila ani jeden návrh opozice na zařazení bodů do programu zasedání, Pirátům se ale podařilo úspěšně prosadit pozměňovací návrh k IT zakázce za 100 milionů. Radní Nováková se cukala při dotazu, zda nepovažuje dosazení svého syna do dozorčí rady ražského teplárenského holdingu za nepřijatelné. A zastupitelstvo schválilo povinnost zveřejňování materiálů na jednání výborů předem. Nejen o tom zářijové zasedání.
 
 Návrhy opozice prý na program nepatří
 ----------------------------------
