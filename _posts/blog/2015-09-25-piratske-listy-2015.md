@@ -36,9 +36,10 @@ Balíky si vyzvedněte na následujících místech:
 * **Praha 3**, Pirátské centrum, Řehořova 19, Praha 3, út-čt 11-17  
   služba: [Mikuláš Ferjenčík][miki], dále dle domluvy tel. 737 943 770   
   možnost parkovat na dvoře, který na vyžádání otevřeme
+* **Praha 6**, Václav Fořtík, Zavadilova 3, Praha 6, tel. 603 234 368
 * **Praha 9**, Dana Balcarová, ulice Pod Krocínkou, domluva na tel. 732 103 330
 * **Praha 10**, Ivan Mikoláš, dohodou na tel. 603 454 341
-* **Praha 22**, Hájek, Ondřej Kallasch, kontakt tel. 720 474 822
+* **Praha 22**, Ondřej Kallasch, Hájek, kontakt tel. 720 474 822
 * seznam je průběžně rozšiřován
 
 **Přijďte si k nám noviny vyzvednout anebo zavolejte zastupiteli [Mikuláši Ferjenčíkovi][miki] a 
