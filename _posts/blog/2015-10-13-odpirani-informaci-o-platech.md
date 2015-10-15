@@ -3,7 +3,7 @@ layout:   eu
 category: blog
 tags:     magistrát
 title:    Kontrola Pirátů ₋ za utajování informací odpovídá vedení magistrátu
-image:    /assets/images/blog/podlaha.jpg
+image:    /assets/images/blog/podlaha.png
 autor:    Mikuláš Ferjenčík
 ---
 
