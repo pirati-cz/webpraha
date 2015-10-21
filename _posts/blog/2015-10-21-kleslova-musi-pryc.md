@@ -1,13 +1,13 @@
 ---
 layout:   eu
 category: blog
-tags:     trafiky, Kleslová, firmy
+tags:     trafiky
 title:    Kleslová bere v pražských firmách 360 000 Kč měsíčně, musí odejít
 image:    /assets/images/blog/kleslova-chobotnice.jpg
 autor:    Adam Zábranský
 ---
 
-Piráti zjistili, že předsedkyně pražského ANO Radmila Kleslová bere za funkce členky představenstva Pražské teplárenské, a.s. a předsedkyně dozorčí rady Pražské energetiky, a.s. celkem 360 000 Kč měsíčně. Na obsazování těchto orgánů má vliv Rada hl. m. Prahy. K tomu je Kleslová ještě starostkou městské části Praha 10 (která má 109 tisíc obyvatel). Z již známých informací vyplývá, že si navíc čas od času vydělá pár set tisíc (či milionů) korun za „poradenské služby“ pro státní či polostátní firmy. Piráti považují tento klientelismus za nepřijatelný a ve čtvrtek na zasedání zastupitelstva navrhnou odvolání Kleslové z funkcí.
+Piráti zjistili, že předsedkyně pražského ANO Radmila Kleslová bere za funkce členky představenstva Pražské teplárenské, a.s. a předsedkyně dozorčí rady Pražské energetiky, a.s. celkem 360 000 Kč měsíčně. Na obsazování těchto orgánů má vliv Rada hl. m. Prahy. K tomu je Kleslová ještě starostkou městské části Praha 10 (která má 109 tisíc obyvatel). Z již známých informací vyplývá, že si navíc Kleslová opakovaně vydělává statisíce korun za „poradenské služby“ pro státní či polostátní firmy. Piráti považují tento klientelismus za nepřijatelný a ve čtvrtek na zasedání zastupitelstva navrhnou odvolání Kleslové z funkcí.
 
 „Radmila Kleslová se očividně mnohé naučila od svého bývalého kolegy Hulínského (ČSSD), který si během tří let vydělal v městských firmách 19 milionů. Jeho to vystřelilo do dnešní pozice náměstka ministra školství, uvidíme, kde skončí Kleslová,“ říká zastupitel za Piráty Adam Zábranský, který údaje o odměnách starostky vyhledal v obchodním rejstříku.
 
