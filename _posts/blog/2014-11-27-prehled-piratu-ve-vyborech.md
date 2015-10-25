@@ -14,7 +14,7 @@ Na ustavujícím zasedání Zastupitelstva hlavního města Prahy byl zvolen nov
 
 ## Mikuláš Ferjenčík
 
-[Mikuláš Ferjenčík][2] je zastupitelem Pirátů a protikorupčním aktivistou. V roce 2013 působil jako koordinátor dobrovolníků v protikorupční kampani Rekonstrukce státu. V rámci Zastupitelského klubu Pirátů se zaměřuje na komunikaci města a obyvatel, podezřelé kauzy, nebo konkrétní otázky v oblasti dopravy. Kandiduje do výborů pro kulturu, územní rozvoj a také infrastrukturu a životní prostředí. 
+[Mikuláš Ferjenčík][2] je zastupitelem Pirátů a protikorupčním aktivistou. V roce 2013 působil jako koordinátor dobrovolníků v protikorupční kampani Rekonstrukce státu. V rámci Zastupitelského klubu Pirátů se zaměřuje na komunikaci města a obyvatel, podezřelé kauzy, nebo konkrétní otázky v oblasti dopravy. Je členem výboru pro územní rozvoj. 
 
 ## Ondřej Profant
 
