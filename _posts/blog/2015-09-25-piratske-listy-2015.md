@@ -33,8 +33,7 @@ Balíky si vyzvedněte na následujících místech:
   možnost parkovat na přenosnou parkovací kartu zastupitelského klubu v ulici U Radnice, Plátnéřská, 
   Linhartská (modrá zóna, vyhrazená stání MHMP)
 * **Praha 2**, [čajovna Šamanka](http://www.samanka.cz/), Hálkova 8, Po-Pá: 11:00-23:00, So-Ne: 15:00-23:00 (Nedaleko IP Pavlova)
-* **Praha 3**, Pirátské centrum, Řehořova 19, Praha 3, út-čt 11-17  
-  služba: [Mikuláš Ferjenčík][miki], dále dle domluvy tel. 737 943 770   
+* **Praha 3**, Pirátské centrum, Řehořova 19, Praha 3, [Mikuláš Ferjenčík][miki], dle domluvy tel. 737 943 770   
   možnost parkovat na dvoře, který na vyžádání otevřeme
 * **Praha 5**, Josef Matoušek, tel. 774 812 939
 * **Praha 6**, Václav Fořtík, Zavadilova 3, Praha 6, tel. 603 234 368
