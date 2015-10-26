@@ -11,7 +11,7 @@ Jak zjistily občanské iniciativy, vedení městské části Prahy 9 využívá
 
 Teprve poté, co jeden ze spolků na toto kácení, na něž nebylo magistrátem Hl. města Prahy vydáno povolení poukázal, radnice, resp. pověřený radní Zdeněk Davídek (Pro Prahu), o toto povolení požádala a tím se snažila celou nezákonnou akci zpětně zakamuflovat. Nemluvě o tom, že nezákonné kácení provázely další podezřelé okolnosti.
 
-Kromě toho, vedení radnice Prahy 9 vynakládá prostředky z dotačního programu EU (Operační program Praha Konkurenceschopnost ₋ osa 2.1. Revitalizace a ochrana území) v rozporu s jeho pravidly. Přestože základním cílem tohoto programu je citlivá revitalizace přírody, podstatná část nákladů projektu MČ Prahy 9 je ryze stavebního charakteru ₋ 75 % nákladů je ryze stavebních, na revitalizaci přírody jde pouze 20 % nákladů a na mobiliář cca 5 % nákladů.  
+Kromě toho, vedení radnice Prahy 9 vynakládá prostředky z dotačního programu EU (Operační program Praha Konkurenceschopnost ₋ osa 2.1. Revitalizace a ochrana území) v rozporu s jeho pravidly. Přestože základním cílem tohoto programu je citlivá revitalizace přírody, podstatná část nákladů projektu MČ Prahy 9 je ryze stavebního charakteru ₋ 75 % nákladů je ryze stavebních, na revitalizaci přírody jde pouze 20 % nákladů a na mobiliář cca 5 % nákladů.
 
 Prostředky z dotačního programu EU na revitalizaci životního prostředí jsou v případě projektu „Revitalizace naučné stezky Amerika“ utráceny převážně za stavební náklady (luxusní veřejné WC, předimenzované inženýrské sítě v přírodní oblasti, nová parkoviště pro auta a autobusy, železobetonové desky), což je v jednoznačném rozporu s určením operačního programu. Což ostatně není v režii vedení Městské části Praha 9 první taková akce. 
 
