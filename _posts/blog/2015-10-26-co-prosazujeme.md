@@ -3,8 +3,8 @@ layout:   eu
 category: blog
 tags:     program, priority
 title:    Priority Pirátů v Praze
-image:    /assets/images/blog/
-autor:    Adam Zábranský
+image:    /assets/images/blog/klub-zastupko.jpg
+autor:    Mikuláš Ferjenčík
 ---
 
 Vzhledem k aktuálnímu vývoji v zastupitelstvu hl. m. Prahy sepsali zastupitelé za Piráty své priority v pražské politice a postoj k aktuálním velkým tématům Prahy. Požadují mimo jiné lepší zveřejňování smluv a zveřejňování faktur města, konec politických trafik v městských firmách, podání žaloby na Béma za opencard, otevřené soutěže na IT systémy či návazná opatření na Blanku. Co se týče velkých témat, Piráti například nepodporují stavbu dalších megalomanských tunelů, chtějí zveřejnit seznam všech nájmů městských nemovitostí a souhlasí s navýšením příspěvků městským částem. V případě účasti v koalici Piráti chtějí mít na starosti protikorupční opatření, otevřenost a informatiku.
