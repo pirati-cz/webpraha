@@ -1,7 +1,7 @@
 ---
 layout:   eu
 category: blog
-tags:     Praha 9
+tags:     Praha 9, eurodotace
 title:    Dotace z EU tečou do nezákonného kácení stromů v Praze 9
 image:    /assets/images/blog/strom.jpg
 autor:    Dana Balcarová
