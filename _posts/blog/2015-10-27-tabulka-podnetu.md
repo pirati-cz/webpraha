@@ -20,7 +20,9 @@ bude muset Povinný subjekt při novém posouzení žádosti zvážit, zda je na
 
 Ministerstvo tedy zrušilo rozhodnutí Jana Kábrta o odmítnutí informace jako nezákonné a nařídilo nové posouzení žádosti, přičemž úřad se bude muset vypořádat s argumentací ministerstva, která dává za pravdu Pirátům.
 
-Mikuláš Ferjenčík, zastupitel za Piráty, k rozhodnutí ministerstva říká: "Jsem rád, že jsme s odvoláním u ministerstva vnitra uspěli stejně jako v celé řadě dalších sporů o informace, které jsme za poslední rok s Prahou vedli. Věřím, že napodruhé už mi město požadované informace poskytne a časem se snad podaří zajistit, aby byly podněty na změnu územního plánu průběžně zveřejňovány. Současně doufám, že Jan Kábrt se do funkce ředitele nevrátí, už kvůli tomuto nezákonnému rozhodnutí by to byla ostuda."
+Mikuláš Ferjenčík, zastupitel za Piráty, k rozhodnutí ministerstva říká: 
+
+> „Jsem rád, že jsme s odvoláním u ministerstva vnitra uspěli stejně jako v celé řadě dalších sporů o informace, které jsme za poslední rok s Prahou vedli. Věřím, že napodruhé už mi město požadované informace poskytne a časem se snad podaří zajistit, aby byly podněty na změnu územního plánu průběžně zveřejňovány. Současně doufám, že Jan Kábrt se do funkce ředitele nevrátí, už kvůli tomuto nezákonnému rozhodnutí by to byla ostuda.“
 
 ### Odkazy
 - [Žádost Pirátů o informace](https://github.com/pirati-cz/KlubPraha/blob/master/spisy/2015/130-tabulka-podnetu/1-zadost/main.pdf)
