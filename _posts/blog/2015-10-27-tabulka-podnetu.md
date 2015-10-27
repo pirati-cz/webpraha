@@ -13,7 +13,9 @@ Zastupitel za Piráty Mikuláš Ferjenčík [požádal o seznam podnětů a jeji
 
 Bývalý ředitel odboru územního rozvoje pražského magistrátu Jan Kábrt [žádost Pirátů zamítl](https://github.com/pirati-cz/KlubPraha/blob/master/spisy/2015/130-tabulka-podnetu/2-odmitnuti/odmitnuti.pdf) a den na to Kábrt ve své funkci ředitele skončil. Podle zákulisních informací ale usiluje o návrat. Nyní o [odvolání](https://github.com/pirati-cz/KlubPraha/blob/master/spisy/2015/130-tabulka-podnetu/3-odvolani/main.pdf) Pirátů rozhodlo ministerstvo vnitra, které argumentaci Jana Kábrta smetlo ze stolu.
 
-V rozhodnutí se mimo jiné píše: "S ohledem na to, že Zastupitelstvo schvaluje územní plán a jeho změny, žadatel je členem tohoto orgánu a zároveň je členem výboru Zastupitelstva, který se nezabývá ničím jiným, než právě územním plánem. Odpověď na otázku, zda se požadované informace, tedy seznam všech podnětů k územnímu plánu a jejich obsah vztahují k výkonu funkce žadatele, je tak podle názoru nadřízeného orgánu v celku bez nutnosti dalších argumentů vyřešena, a to kladně.
+V rozhodnutí se mimo jiné píše: 
+
+> "S ohledem na to, že Zastupitelstvo schvaluje územní plán a jeho změny, žadatel je členem tohoto orgánu a zároveň je členem výboru Zastupitelstva, který se nezabývá ničím jiným, než právě územním plánem. Odpověď na otázku, zda se požadované informace, tedy seznam všech podnětů k územnímu plánu a jejich obsah vztahují k výkonu funkce žadatele, je tak podle názoru nadřízeného orgánu v celku bez nutnosti dalších argumentů vyřešena, a to kladně.
 
 Ostatně stačí nahlédnout do některých zápisů z jednáních tohoto výboru. Podle názoru nadřízeného orgánu tak
 bude muset Povinný subjekt při novém posouzení žádosti zvážit, zda je na místě vůbec přemýšlet o tom, zda lze informace neposkytnout. Na tomto místě se nadřízený orgán ztotožňuje s námitkou žadatele a konstatuje, že povinností Povinných subjektů je primárně poskytnout maximum možného, nikoli hledat důvody a cesty k tomu, jak maximum možného neposkytnout."
