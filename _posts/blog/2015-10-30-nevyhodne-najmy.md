@@ -3,7 +3,7 @@ layout:   eu
 category: blog
 tags:     najmy, majetek
 title:    Praha tratí stamiliony kvůli neprůhlednému pronajímání kanceláří
-image:    /assets/images/blog/
+image:    /assets/images/blog/magistrat.jpg
 autor:    Adam Zábranský
 ---
 
