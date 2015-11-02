@@ -3,7 +3,7 @@ layout: eu
 category: blog
 tags: trafiky, ZHMP, protest, zasedání, praha
 title: Řekněte NE politickým trafikám v Praze 5.11. 9 ráno
-image: trafika.jpg
+image: /assets/images/blog/trafika.jpg
 autor: praha.pirati.cz
 ---
 
