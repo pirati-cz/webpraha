@@ -24,6 +24,7 @@ Cílíme hlavně na zastupitele, kterým vysíláme jasný vzkaz – Zrušte pol
 Díky za sdílení!
 
 [Facebooková událost k zastupitelstvu](https://www.facebook.com/events/1267118669980899/)
+
 [Facebooková událost k workshopu na přípravu propriet](https://www.facebook.com/events/160558977628389/)
 
 Kontakt:
