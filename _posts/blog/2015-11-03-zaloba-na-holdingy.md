@@ -3,7 +3,7 @@ layout: eu
 category: blog
 tags: poskytování informací
 title: Piráti žalují městské firmy, které jim nechtějí poskytovat informace
-image: /assets/images/blog/trafika.jpg
+image: /assets/images/blog/holding.jpg
 autor: Adam Zábranský
 ---
 
