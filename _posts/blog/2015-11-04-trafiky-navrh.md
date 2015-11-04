@@ -2,9 +2,9 @@
 layout: eu
 category: blog
 tags: trafiky
-title: Zastupitelstvo Prahy projedná omezení trafik v městských firmách
+title: Návrh Pirátů k omezení trafik v městských firmách
 image: /assets/images/blog/trafika2.png
-autor: Adam Zábranský
+autor: Mikuláš Ferjenčík
 ---
 
 Na programu zasedání pražského zastupitelstva, které pokračuje ve čtvrtek 5. listopadu, byl zařazen bod „k problematice členství JUDr. Radmily Kleslové v orgánech akciových společností města“. Piráti jsou si vědomi, že angažmá Radmily Kleslové v městských firmách je jen špička ledovce, a proto předložili návrh, jak celý proces nominací do městských firem zprůhlednit. 
