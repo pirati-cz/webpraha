@@ -20,4 +20,4 @@ Odkazy
 - [Nájemní smlouva města s KSČM i s dodatky](https://github.com/pirati-cz/KlubPraha/raw/master/spisy/2015/208-najemni-smlouva-kscm/2-odpoved/smlouva-s-dodatky.pdf)
 - [Výpočtový list k nájmu z roku 1993](https://github.com/pirati-cz/KlubPraha/raw/master/spisy/2015/208-najemni-smlouva-kscm/2-odpoved/vypoctovy-list-od-roku-93.pdf)
 - [Praha tratí stamiliony kvůli neprůhlednému pronajímání kanceláří](https://praha.pirati.cz/nevyhodne-najmy.html)
-- [Praha 10 ani po pokutě UOHS nezveřejňuje na profilu zadavatele smlouvy] (http://www.bezkorupce.cz/blog/2014/07/22/praha-10-ani-po-pokute-uohs-nezverejnuje-na-profilu-zadavatele-smlouvy/)
+- [Praha 10 ani po pokutě UOHS nezveřejňuje na profilu zadavatele smlouvy](http://www.bezkorupce.cz/blog/2014/07/22/praha-10-ani-po-pokute-uohs-nezverejnuje-na-profilu-zadavatele-smlouvy/)
