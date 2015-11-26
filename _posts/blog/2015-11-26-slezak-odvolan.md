@@ -4,7 +4,7 @@ category: blog
 tags: čssd, územní plán
 title: Piráti prosadili odvolání předsedy výboru pro územní plán, Jana Slezáka
 image: /assets/images/blog/hlasovani-slezak.png
-autor: Adam Zábranský
+autor: Mikuláš Ferjenčík
 ---
 
 Předseda výboru pro uzemní rozvoj a územní plán Jan Slezák (ČSSD) byl dnes odvolán z této funkce na návrh zastupitele Pirátů Mikuláše Ferjenčíka. Pro odvolání hlasovali Piráti, TOP09, ODS, Trojkoalice a Nezávislí. 
