@@ -17,4 +17,9 @@ Piráti zpracovali podrobný seznam svých programových priorit a s výše jmen
 
 Jakub Michálek uzavírá: "Dali jsme své karty na stůl a uvidíme, co na to řeknou zbývající strany. Vnímáme povinnost politiků zajistit řádnou správu města, a proto navrhujeme řešení, jak ze stávajícího chaosu ven. Nechceme, aby z tohoto chaosu vyšel jako vítěz šíbr pražské ČSSD Karel Březina a jeho spojka Radmila Kleslová." 
 
-Případné uzavření koaliční smlouvy musí schválit krajské sdružení Pirátů v referendu. 
+Případné uzavření koaliční smlouvy musí schválit krajské sdružení Pirátů v referendu.
+
+Zdroje:
+
+- [Pirátské minimum pro novou radu](https://github.com/pirati-cz/KlubPraha/blob/master/materialy/piratske-minimum/piratske-minimum.md)
+- [Povolební strategie](https://www.pirati.cz/regiony/praha/povolebni_strategie)
