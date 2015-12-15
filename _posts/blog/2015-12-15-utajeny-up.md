@@ -7,7 +7,7 @@ image: /assets/images/blog/tajnyagent.jpg
 autor: Jakub Michálek
 ---
 
-Mikuláš Ferjenčík, pražský zastupitel za Piráty a člen výboru pro územní rozvoj a územní plán, požádal Prahu 30. listopadu o návrh nového metropolitního plánu, který byl předán městu Institutem pro plánování a rozvoj (IPR). 
+Mikuláš Ferjenčík, pražský zastupitel za Piráty a člen výboru pro územní rozvoj a územní plán, požádal Prahu dne 30. listopadu o návrh nového metropolitního plánu, který byl předán městu Institutem pro plánování a rozvoj (IPR). 
 
 Praha mu metropolitní plán 7. 12. odmítla poskytnout. Zastupitel hl. m. Prahy má dle zákona o hlavním městě Praze, právo na „informace ve věcech, které souvisejí s výkonem jeho funkce, nestanoví-li zákon jinak“. S tímto právem se město při vyřizování žádosti vůbec nevypořádalo, proto máme za to, že se jedná o další z řady nezákonných rozhodnutí magistrátu a Mikuláš Ferjenčík se dnes proti tomuto rozhodnutí odvolal. V reakci na odepření informací podali Piráti totožnou žádost i na IPR. 
 
