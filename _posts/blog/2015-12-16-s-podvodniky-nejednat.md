@@ -2,7 +2,7 @@
 layout: eu
 category: blog
 tags: ČSSD, zastupitelstvo
-title: Piráti s podvodníky se nevyjednává
+title: Piráti： s podvodníky se nevyjednává
 image: /assets/images/blog/brezina-nabidka.jpg
 autor: Jakub Michálek
 ---
