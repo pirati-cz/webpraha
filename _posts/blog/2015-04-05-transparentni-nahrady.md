@@ -7,7 +7,17 @@ image: /assets/images/blog/zastupko.jpg
 autor: Jakub Michálek
 ---
 
-Na náhradách zastupitelů za dobu strávenou výkonem funkce jsme obdrželi v souladu se zákonem za prosinec až únor celkem 150 660 Kč. To je asi 12 666 Kč na zastupitele na měsíc, přičemž zastupitelé pracují prakticky na plný úvazek. Tato částka je zcela nesrovnatelná s koaličními zastupiteli nebo předsedkyní kontrolního výboru za ODS, kteří jako uvolnění členové zastupitelstva mají platy 80 000 až 100 000 korun měsíčně, případně mají jako neuvolnění členové zastupitelstva mají i několik míst v dozorčích radách v městských firmách, kde si přijdou na desetitisíce korun měsíčně.
+Na náhradách zastupitelů za dobu strávenou výkonem funkce jsme obdrželi v souladu se zákonem za prosinec až únor roku 2015 celkem 150 660 Kč. To je asi 12 666 Kč na Pirátského zastupitele na měsíc, přičemž zastupitelé pracují prakticky na plný úvazek. Odměna náleží zastupiteli podle hodinové sazby za čas strávený na zastupitelstvu, na jednáních výboru atd. 
+
+**Aktualizováno 2016**: Kazíme starým zaběhnutým strukturám jejich hru. Jako jediná strana zveřejňujeme informace o všech příjmech zastupitelů přehledně na webu, viz [zprávy o odměňování zde](https://github.com/pirati-cz/KlubPraha/tree/master/odmeny).
+
+Tato částka je zcela nesrovnatelná s koaličními zastupiteli ANO a ČSSD nebo předsedkyní kontrolního výboru za ODS, kteří jako uvolnění členové zastupitelstva mají platy 80 000 až 100 000 korun měsíčně, případně mají jako neuvolnění členové zastupitelstva mají i několik míst v dozorčích radách v městských firmách, kde si přijdou na desetitisíce korun měsíčně. Například příjem Radmily Kleslové (ANO) z dozorčích rad se odhaduje na [360000 Kč měsíčně](https://praha.pirati.cz/kleslova-musi-pryc.html) včetně tantitiém, tedy třicetkrát tolik (!), viz obrázek níže:
+
+![Graf srovnání](/assets/images/blog/srovnani.png)
+
+Obrázek pochází z [výroční zprávy za první rok Pirátů v pražském Zastupitelstvu](https://github.com/pirati-cz/KlubPraha/raw/master/materialy/vyrocni-zprava/vyrocni-zprava.pdf).
+
+Protože na nás ostatní strany nic jiného nemají, snaží se nás přes tyto legální náhrady diskreditovat. ODS se např. chlubí tím, že náhrady nečerpá (možná kvůli tomu, že její zastupitelé mají nízkou docházku). My považujeme za lepší, když zastupitelé nejsou závislí na vnějších zdrojích a dostanou od města příjem podle odpracované doby. Proto jsme sepsali vysvětlovací článek pro občany a novináře, aby věděli, podle jakých pravidel má zastupitel nárok na náhradu výdělku od města. 
 
 ### Co je to náhrada výdělku zastupitele?
 Každý zastupitel má právo na náhradu výdělku za podmínek stanovených zákonem. Zákon rozlišuje výši náhrad pro zastupitele, kteří jsou v pracovním poměru a kteří nejsou v pracovním poměru. Žádný zastupitel Pirátů není v pracovním poměru, protože by nemohl věnovat dostatek času své funkci (zastupitelé Pirátů jsou na magistrátu prakticky celý pracovní úvazek, ačkoliv naprostou většinu času věnují úkolům, za které nejsou městem placeni).
@@ -32,7 +42,7 @@ Z uvedeného je patrné, že všichni zastupitelé mají nárok na náhradu ušl
 
 Náhrada přísluší za výkon funkce zastupitele, účast na zastupitelstvu (dominantní část), účast na výborech, seminářích a plnění úkolů vyplývajících z pověření uvolněným členem zastupitelstva.
 
-Jak hlásala od prosince média, zastupitelé Pirátů Jakub Michálek a Ondřej Profant mají [pověření primátorky](https://github.com/pirati-cz/KlubPraha/blob/master/odmeny/2014/12/ondra/scan.pdf) jednat ohledně Opencard. Mezi nahrazovanými hodinami jsou tudíž i jednání se společností EMS, s příslušnými městskými společnosti, jednání pracovní skupiny k Opencard (viz úplný seznam níže). Vedle toho nám náhrada náleží také za čas, který věnujeme plnění úkolů uložených komisí Rady pro ICT anebo kontrolním výborem Zastupitelstva.
+Jak hlásala od prosince 2014 média, zastupitelé Pirátů Jakub Michálek a Ondřej Profant mají [pověření primátorky](https://github.com/pirati-cz/KlubPraha/blob/master/odmeny/2014/12/ondra/scan.pdf) jednat ohledně Opencard. Mezi nahrazovanými hodinami na přelomu roku 2014 a 2015 jsou tudíž i jednání se společností EMS, s příslušnými městskými společnosti, jednání pracovní skupiny k Opencard (viz úplný seznam níže). Vedle toho nám náhrada náleží také za čas, který věnujeme plnění úkolů uložených komisí Rady pro ICT anebo kontrolním výborem Zastupitelstva.
 
 Níže uvedený graf ukazuje, že největší podíl na nahrazovaných hodinách má účast na zastupitelstvu hl. m. Prahy, které bylo v únoru i 17 hodin dlouhé. Druhý největší podíl je pověření k jednání ve věci Opencard od primátorky.
 
@@ -51,8 +61,8 @@ Na náhradách zastupitelů za dobu strávenou výkonem funkce jsme obdrželi v 
 |	**Měsíc**     | Michálek  |   Profant | Ferjenčík |	Zábranský |	**celkem** |
 | :------------ | --------: | --------: | --------: | --------: | ---------: |
 | Prosinec 2014 |	[18 000 Kč][m-12] |	[18 450 Kč][p-12] |	 [3 375 Kč][f-12] |	 [3 825 Kč][z-12]	|  39 825 Kč |
-| Leden 2014    | [18 000 Kč][m-01]	| [18 000 Kč][p-01] |	 [4 995 Kč][f-01]	|  [8 280 Kč][z-01]	|  40 995 Kč |
-| Únor 2014     | [15 300 Kč][m-02] | [18 000 Kč][p-02]	|  [9 788 Kč][f-02]	| [14 648 Kč][z-02]	|  43 088 Kč |
+| Leden 2015    | [18 000 Kč][m-01]	| [18 000 Kč][p-01] |	 [4 995 Kč][f-01]	|  [8 280 Kč][z-01]	|  40 995 Kč |
+| Únor 2015     | [15 300 Kč][m-02] | [18 000 Kč][p-02]	|  [9 788 Kč][f-02]	| [14 648 Kč][z-02]	|  43 088 Kč |
 | **celkem**    | 51 300 Kč	| 54 450 Kč	| 18 158 Kč	| 26 753 Kč	| 150 660 Kč |
 
 Po rozkliknutí každé částky se dostanete do adresáře, kde si můžete zobrazit výčetku na daný měsíc. Náhrady u Jakuba Michálka a Ondřeje Profanta jsou vyšší, protože právě tito dva zastupitelé jsou pověřeni k tomu, aby se účastnili jednání ohledně Opencard (viz výše).
@@ -76,7 +86,8 @@ Piráti mají v porovnání s ostatními neuvolněnými zastupiteli relativně v
 
 ### Transparentní vykazování příjmů
 
-Smyslem zákonného ustanovení o náhradách ušlého výdělku je, aby existoval objektivní způsob náhrady výdělku, aby se mohli zastupitelé funkci věnovat.  
+Smyslem zákonného ustanovení o náhradách ušlého výdělku je, aby existoval objektivní způsob náhrady výdělku, aby se mohli zastupitelé funkci věnovat. 
+
 Tento způsob odměňování zastupitelů považujeme za **nejtransparentnější** z následujících důvodů:
 
 1. U každého zastupitele je **prokazatelný seznam úkonů**, které za daný měsíc udělal. Nejde o žádný paušální plat, jako mají uvolnění radní. Občané díky tomu mají dost informací na to, aby zhodnotili efektivitu vynaložených prostředků.
@@ -85,7 +96,7 @@ Tento způsob odměňování zastupitelů považujeme za **nejtransparentnějš�
 4. Piráti **zveřejňují výši odměn jmenovitě** na svých webových stránkách. Tímto způsobem nezveřejňují příjmy žádní jiní zastupitelé ani politické kluby, navzdory slibům o transparenci.
 5. Piráti podávají **pravidelnou výčetku každý měsíc**. Nečekají tedy jako jiní zastupitelé až 3 roky, kteří si nechají vyplácet náhrady nazpátek.
 6. Všichni zastupitelé Pirátů mají **podrobné majetkové přiznání na internetových stránkách**. Zastupitelé jiných politických stran podávají jen částečné majetkové přiznání, které je zavřené v trezoru magistrátu mimo kontrolu veřejnosti.
-7. Aby zastupitelé udrželi vysokou kvalitu své práce a otevřenost, platí je za část práce také **Pirátská strana** (viz [článek z listopadu 2014](/zastupitele-piratu-pracuji-naplno.html)). Podrobnosti najdete v agregované tabulce za rok [2014](https://github.com/pirati-cz/KlubPraha/blob/master/odmeny/2014/2014.ods?raw=true) a [2015](https://github.com/pirati-cz/KlubPraha/blob/master/odmeny/2015/2015.ods?raw=true).
+7. Aby zastupitelé udrželi vysokou kvalitu své práce a otevřenost, platí je za část práce také **Pirátská strana** (viz [článek z listopadu 2014](/zastupitele-piratu-pracuji-naplno.html)). Podrobnosti najdete v [repoziáři odměn](https://github.com/pirati-cz/KlubPraha/tree/master/odmeny).
 
 ----
 
