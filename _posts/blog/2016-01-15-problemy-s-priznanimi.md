@@ -16,3 +16,7 @@ Podle informací uvedených Magistrátem odevzdal archiv Magistrátu majetková 
 Aby toho nebylo málo, na Magistrátu se rozbila i databáze podle zákona o střetu, do kterého dávají primátor a další zastupitelé další informace o svém majetku vyžadované zákonem. Piráti se to dozvěděli, když jim Praha 10 a Magistrát odmítly dát přístup do registru, na který mají podle zákona právo. Praha 10 vedle toho i nezákonně tají, kolik peněz dostal tajemník a ředitelé odborů. 
 
 "Chceme upozornit, že pražští politici nepodléhají prakticky žádné kontrole občanů. Není divu, že v takovém prostředí se dobře daří různým korupčním chobotnicím," uzavírá Michálek. 
+
+## Odkazy
+
+[Praha dokládá, že jsou majetková přiznání ztracená](https://github.com/pirati-cz/KlubPraha/blob/master/spisy/2015/237-registr-stretu-zajmu-praha-10/2-zamitnuti-z-technickych-duvodu/zamitnuti-z-technickych-duvodu.pdf)
