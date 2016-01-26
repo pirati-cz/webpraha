@@ -2,7 +2,7 @@
 layout: eu
 category: blog
 tags: magistrát
-title: Hledá se ředitel informatiky Magistrátu!
+title: Staňte se ředitelem informatiky pražského Magistrátu.
 image: /assets/images/blog/reditel.jpg
 autor: Jan Loužek
 ---
