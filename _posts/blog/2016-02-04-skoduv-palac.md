@@ -1,14 +1,18 @@
 ---
 layout: eu
 category: blog
-tags: Praha 1
-title: Praha 1 žádá od Piráta 2,5 milionu Kč za informace, které jinde dostal zadarmo
-image: /assets/images/blog/urednici-praha1.jpg
-autor: Olga Richterová
+tags: magistrát
+title: Praha by měla vymáhat škodu za pronájem Škodova paláce
+image: /assets/images/blog/szpl.jpg
+autor: Mikuláš Ferjenčík, Jan Loužek
 ---
 
-Místopředseda pražských Pirátů Pavel Hájek dne 9. ledna 2016 [požádal](https://github.com/pirati-cz/webpraha/blob/gh-pages/assets/static/praha-1.jpg) městskou část Praha 1 o vyexportování seznamu všech faktur za roky 2010 – 2015 do strojově čitelného souboru, například excelovské tabulky. Dle informací získaných přímo od zaměstnance jiného obecního úřadu se jedná o úkon, který by běžně neměl zabrat více jak několik desítek minut času. Úřad městské části Praha 1 si za tyto informace [řekl o 2 493 350 Kč](https://github.com/pirati-cz/webpraha/blob/gh-pages/assets/static/praha-1b.jpg). 
+Piráti [vyzývají Radu hlavního města Prahy a primátorku hlavního města Prahy](https://github.com/pirati-cz/KlubPraha/blob/master/spisy/2016/010-vyzva-k-promlceni/01-zadost/main_signed.pdf), aby vymáhaly škodu po osobách, které jsou odpovědné za předražený nájem Škodova paláce. Brzy totiž uplyne promlčecí lhůta v dané kauze. Nevýhodný nájem kancelářské budovy za cenu čtyř miliard korun na 20 let schválila Rada tehdejšího primátora Pavla Béma. Praha se ale ještě může bránit - má k dispozici právní posudek, který doporučuje hlavnímu městu, aby škodu vymáhalo.
 
-Pavel Hájek k postupu Prahy 1 říká: "Při snaze získat pro svou investigativní činnost z úřadů důležité informace se potkávám poměrně často se situací, že instituce moji žádost zpoplatní. Obvykle úřady vyčíslují své náklady na stovky či tisíce korun. Částka bezmála 2,5 mil. Kč, kterou po mně požaduje Praha 1 za jednu excelovskou tabulku, je však naprosto nevídaná. Pro srovnání, obdobnou informaci mi vydala Praha 5 i Praha 3 zcela zdarma a Praha 12 s Prahou 13 si obě účtovaly 2 hodiny práce a [380 Kč](https://github.com/pirati-cz/webpraha/blob/gh-pages/assets/static/praha-12.pdf), respektive [400 Kč](https://github.com/pirati-cz/webpraha/blob/gh-pages/assets/static/praha-13.pdf). Perličkou výzvy z Prahy 1 je i fakt, že úřad mi nabízí možnost zaplatit tak vysokou částku v hotovosti (což je protizákonné) a navíc se ve svém výpočtu celkové částky podle vlastní metodiky spletl téměř o 500 tisíc. Kč. Možná je na Praze 1 běžné nosit miliony v hotovosti na úřad."
+Není to poprvé, kdy Piráti upozorňují na riziko promlčení v případě této kauzy. Jakub Michálek se v této věci dotazoval Rady hlavního města Prahy již dne 30. 10. 2015. Obdržel sice odpověď, ve které Magistrát přiznal, že si nechal u advokátní kanceláře Císař, Češka a Smutný zpracovat právní posudek, nic dalšího se ale nestalo. Michálek proto žádá o projednání uvedené záležitosti na nejbližším možném jednání Rady hlavního města Prahy. 
 
-Pavel Hájek proti tomuto rozhodnutí podá 8. 2. 2016 stížnost pro nesouhlas s výší částky.
+„Navrhuji, aby současná Rada hlavního města Prahy věc řádně prošetřila, určila konkrétní odpovědnost za učiněná rozhodnutí a uplatnila nároky vůči konkrétním osobám“ uvedl k záležitosti Michálek. Za možné viníky smlouvy o předraženém nájmu přitom označil několik vlivných osob ₋ jedním z nich je exprimátor Pavla Béma, který vládl v roce 2006 v čele velké koalice ODS a ČSSD a je považován za známého podnikatele Pawlowského, který zakázku za více než 4 miliardy Kč získal. Jako druhý přichází v úvahu Bémův známy, advokát Miroslav Jansta, který administroval výběrové řízení na Škodův palác a podle Magistrátu také zodpovídal za cenu zakázky, která byla asi dvakrát předražená. Janstova kancelář byla známá napojením na politiky, z těch současných pražských u Jansty pracovala odvolaná radní ČSSD Irena Ropková.
+
+„Z důvodů opatrnosti jsem Radě doporučil se připojit k nároku na náhradu škody v trestním řízení bez zbytečného odkladu již tento měsíc,“ uzavírá Michálek. 
+
+Škodův palác využívá Magistrát hlavního města Prahy již téměř 10 let a pracuje v něm většina jeho úředníků. Podle Pavla Béma se mělo jednat o projekt, který ušetří pražanům čas i peníze. Až později vyplynulo, že výběrové řízení bylo šité na míru jednomu zájemci a že je nájem předražený. Praha uzavřela nevypověditelnou smlouvu na dobu 20 let. V roce 2026, až smlouva vyprší, tak hlavní město utratí celkem 4 miliardy korun, a žádnou vlastní budovu mít nebude. Budovu koupil od spol. ČEZ v roce 2004 Sebastian Pawlowski za 850 mil. Kč, nyní je vlastněna neprůhledným holdingem zahraničních firem.
