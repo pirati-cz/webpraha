@@ -23,8 +23,9 @@ Dne 19. ledna 2016 zažádal Klub pro starou Prahu zapsání stavby na seznam ku
 
 ![Zanedbaný stav mostu](/assets/images/blog/lm3.jpg "Současný technický stav mostu je neudržitelný. Uvolňují se z něj kusy betonu a schodiště pro pěší jsou uzavřená, neboť hrozí jejich propadnutí.")
 
-Opravu mostu nepodpořil klub TOP 09, neboť jeden z kandidátů na nového pražského primátora za tuto stranu, Jiří Nouza, byl radním pro dopravu v době, kdy byl plán výstavby nového mostu zpracováván. Sociální demokraté, kteří mají s developery [velmi dobré vztahy][cssd], TOP 09 sekundují. Jestli ale nakonec dojde k stržení mostu a jeho náhradě "betonovým monstrem", je zatím ve hvězdách.
+Opravu mostu nepodpořil klub TOP 09, neboť jeden z kandidátů na nového pražského primátora za tuto stranu, Jiří Nouza, byl radním pro dopravu v době, kdy byl plán výstavby nového mostu [zpracováván][lidovky]. Sociální demokraté, kteří mají s developery [velmi dobré vztahy][cssd], TOP 09 sekundují. Jestli ale nakonec dojde k stržení mostu a jeho náhradě "betonovým monstrem", je zatím ve hvězdách.
 
+[lidovky]: http://www.lidovky.cz/rekonstrukce-mostu-v-libni-spise-radikalni-premena-bouri-se-odpurci-1gx-/zpravy-domov.aspx?c=A140916_172935_ln_domov_ml
 [iDNES]: http://praha.idnes.cz/rekonstrukce-libenskeho-mostu-se-nelibi-mestske-casti-a-pamatkarum-1px-/praha-zpravy.aspx?c=A150716_160305_praha-zpravy_nub
 [cssd]: https://praha.pirati.cz/smlouva-s-developerem-cssd.htm
 [interpelace]: https://github.com/pirati-cz/KlubPraha/tree/master/spisy/2016/024-interpelace-zhmp-28-1
