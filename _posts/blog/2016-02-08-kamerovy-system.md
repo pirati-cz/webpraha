@@ -7,7 +7,7 @@ image: /assets/images/blog/kamery.jpg
 autor: Ondřej Profant, Adam Zábranský
 ---
 
-*Rada hlavního města bude zítra hlasovat o nové koncepci mětstského kamerového systému na následujících deset let. Předložený návrh přináší zavedení kamer ve vysokém rozlišení, které budou sledovat občany na ulicích a vyhodnocovat jejich činnost podle předem naprogramovaných vzorců. Piráti snahy o zásahy do soukromí obyvatel Prahy a monitorování lidí na ulicích odmítají. Namísto toho chceme častější přítomnost strážníků v ulicích.*
+Rada hlavního města bude zítra hlasovat o nové koncepci mětstského kamerového systému na následujících deset let. Předložený návrh přináší zavedení kamer ve vysokém rozlišení, které budou sledovat občany na ulicích a vyhodnocovat jejich činnost podle předem naprogramovaných vzorců. Piráti snahy o zásahy do soukromí obyvatel Prahy a monitorování lidí na ulicích odmítají. Namísto toho chceme častější přítomnost strážníků v ulicích.
 
 „Znepokojuje nás vychvalování orwellovského kamerového systému v Londýně, kde je kamera doslova na každém rohu. Neexistují pořádné důkazy o tom, že kamerové systémy jsou dlouhodobě efektivním řešením prevence a odhalování kriminality. Když si na ně zločinci zvyknou, kriminalita se pouze přesune jinam. Naopak ve spojení se sledováním osob či dokonce jakýchsi inteligentních systémů odhalování podezřelého chování, o kterých se hovoří, se jedná o snadno zneužitelný (jak už se v minulosti několikrát ukázalo) obrovský zásah do soukromí občanů. Kamery na některých místech mají smysl, ale rozhodně nechceme žít v policejním státě, kde občané budou preventivně monitorováni, protože by někdy mohli něco spáchat,“ shrnuje zastupitel hl. m. Prahy za Piráty Ondřej Profant.
 

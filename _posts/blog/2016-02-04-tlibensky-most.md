@@ -7,7 +7,7 @@ image: /assets/images/blog/most-breci.jpg
 autor: Ondřej Profant, Jan Loužek
 ---
 
-*Návrh, který podporují ČSSD a TOP 09, počítá se stržením mostu z 20. let a jeho nahrazením novou stavbou. Obyvatelé Libně i Holešovic by se tak museli připravit na podstatná dopravní omezení. Namísto původního pak navrhují betonový megamost s navazujícím tunelem pod Libní.*
+Návrh, který podporují ČSSD a TOP 09, počítá se stržením mostu z 20. let a jeho nahrazením novou stavbou. Obyvatelé Libně i Holešovic by se tak museli připravit na podstatná dopravní omezení. Namísto původního pak navrhují betonový megamost s navazujícím tunelem pod Libní.
 
 Libeňský most souží Pražanům již téměř devadesát let. Za tu dobu neprošel žádnou významnější rekonstrukcí, a proto chátrá. Jeho technickému stavu nepomohly jak sovětské tanky v roce 1968, tak ani povodně v roce 2002. Viditelně nebyly prováděny ani základní údržbové práce, jako například výměny izolací. Necitlivý přístup k historické hodnotě stavby dokládá například i instalace moderních lamp veřejného osvětlení přímo na ty původní. Stav mostu je dlouhodobě neudržitelný; Praha proto řeší co s tím. Betonářská lobby si mezitím brousí zuby na novou, šťavnatou zakázku 27 m širokého mostu. K ní by snad mohl přibýt ještě tunel pod Palmovkou, který tak trochu připomíná velkolepé plány pražského "vizionáře" Pavla Béma. 
 
