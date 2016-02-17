@@ -4,7 +4,7 @@ category: blog
 tags: Praha
 title: Absurdistán. Praha nevlastní studie ke svým stavbám
 image: /assets/images/blog/blanka2.jpg
-autor: Mikuláš Ferjenčík
+autor: Adam Zábranský
 ---
 
 Praha není schopná si u objednávaných studií zajistit dostatečný rozsah výkonu majetkových autorských práv. Následkem toho utajuje důležité dokumenty před veřejností a zadává zakázky bez soutěže za miliony.
