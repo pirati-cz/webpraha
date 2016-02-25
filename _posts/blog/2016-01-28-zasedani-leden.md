@@ -7,6 +7,8 @@ image: /assets/images/blog/mikulas-k-busking.jpg
 autor: Jakub Michálek
 ---
 
+Během lednového zasedání zastupitelstva se Praha rozhodla drasticky omezit pouliční umění v metropoli. Návrh Pirátů, aby byl pravomocně odsouzený podvodník Karel Březina odvolán ze svých funkcí, nebyl ani připuštěn k diskuzi. Na poslední chvíli byl navíc zamítnut návrh, aby byl diskutován i technický stav a budoucnost Libeňského mostu. A v neposlední řadě diskutovali zastupitelé i o zbrusu novém projektu pražské Lítačky, který byl slavnostně odhalen tento leden. 
+
 ### Praha drasticky omezí pouliční umění
 
 *    Nově schválená vyhláška o omezení buskingu drasticky zasáhne do pouličního umění v Praze. 
