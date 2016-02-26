@@ -3,7 +3,7 @@ layout: eu
 category: blog
 tags: zastupitelstvo
 title: Zastupitelé schválili opravu Libeňského mostu
-image: /assets/images/blog/magistrat.jpg
+image: /assets/images/blog/libensky-most-podzim.png
 autor: Jakub Michálek
 ---
 
@@ -25,10 +25,14 @@ Na únorovém zastupitelstvu se ODS vybarvila, když naprosto nepochopitelně pr
 * V současné době vede Ministerstvo kultury správní řízení o prohlášení Libeňského mostu kulturní památkou. Ze zákona plyne povinnost s mostem již v průběhu řízení zacházet, jako kdyby to byla kulturní památka
 
 ### Praha se podbízí Pekingu, v partnerství uznává jednotnou Čínu
+
+![Alexandra Udženija z ODS](/assets/images/blog/uxh.png "Kdo všechno chce jednotnou Čínu?")
+
 * Hlasy ČSSD, ANO, KSČM a ODS (!) Zastupitelstvo schválilo **dohodu o partnerství s Pekingem** jako sesterským městěm. 
 * Praha v něm uznává **politiku jedné Číny** a **uznává Taiwan jako nedílnou součást čínského území**. Jde sice o oficiální formulaci, ale ze tří jiných partnerských měst Pekingu tohle ve smlouvě žádná jiná západní metropole nemá.
 * Modrá šipka nové Klausovy ODS asi míří na východ. 
 * Piráti byli proti. Nevadí nám obchodování s ostatními zeměmi ani decentní podpora politiků. Usilujeme ale o Českou republiku, která je **řízena svými občany**, nikoliv ze Západu či Východu, k čemuž nyní Praha i ČR pod vedením ČSSD směřuje.
+
 
 ### Informatika přejde z Magistrátu na městskou akciovku
 * Informatika v rámci úřadu od doby Pavla Béma **viditelně nefunguje**, na vině je nedostatek kvalitních lidí.
