@@ -4,7 +4,7 @@ category: blog
 tags: lítačka, opencard
 title: Lítačka je krok správným směrem
 image: /assets/images/blog/litacka.png
-autor: Mikuláš Ferjenčík
+autor: Mikuláš Ferjenčík, Ondřej Profant
 ---
 
 Zastupitelé Pirátů se na projektu Lítačky nepodíleli a ani nejsou v řídících orgánech města ani jeho městských firem, které o zavedení Lítačky rozhodly. Protože se na nás obrací spousta lidí s dotazy na konkrétní detaily i názor na projekt jako celek, rozhodli jsme se sepsat vyjádření Pirátů k Lítačce. Suma sumárum se dá říct, že projekt Lítačky považujeme za rozumný, uspokojivě vedený a až na několik dílčích výhrad s ním souhlasíme. Debatu o názvu potom považujeme za bouři ve sklenici vody. Každopádně pokud se chcete dozvědět o Lítačce víc, její přednosti i slabiny, čtěte dále. 
