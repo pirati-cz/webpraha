@@ -27,25 +27,25 @@ Z těchto důvodů vznikl projekt Lítačka.
 
 V rámci projektu Lítačky společnost XT-Card dodala Praze nové jádro systému pro výdej čipových karet. Praha tak nově v této oblasti není závislá na společnosti EMS, která se s městem soudí o stamiliony. 
 
-1) Na rozdíl od EMS po Praze XT-Card nemůže chtít žádné peníze za údržbu systému – jednoduše jednorázově dodala produkt a případné chyby má opravit v rámci záruky. A je to i jasně ukotveno ve smlouvě.
+1. Na rozdíl od EMS po Praze XT-Card nemůže chtít žádné peníze za údržbu systému – jednoduše jednorázově dodala produkt a případné chyby má opravit v rámci záruky. A je to i jasně ukotveno ve smlouvě.
 
-2) Praha neplatí žádný poplatek za vydání karty. 
+2. Praha neplatí žádný poplatek za vydání karty. 
 
-3) Vyřešil se problém s obnovováním certifikátu. 
+3. Vyřešil se problém s obnovováním certifikátu. 
 
 Z hlediska koncového uživatele systém funguje úplně stejně. 
 
 ## K čemu máme výhrady?
 
-1) Systém není opensource
+1. Systém není opensource
 
 Piráti by dali přednost tomu, aby město mělo kromě licenčních práv i zdrojové kódy příslušného software a oprávnění je upravovat. Úpravy a rozvoj systému by potom mohla dělat jakákoli firma, případně město svépomocí. Na druhou stranu Lítačka je podle tvrzení zástupců Operátora ICT modulární a zdokumentovaná. Tzn rozšíření systému by měly být schopné dělat i jiné firmy než XT-Card jednoduše tak, že nové prvky napojí na stávající operační systém dodaný XT-Card. 
 
-2) Maximální počet výdejních přepážek Lítačky je omezen na 100, to je sice násobně více, než kolik bylo potřeba pro Opencard, ale je to určité omezení možností rozvoje systému. 
+2. Maximální počet výdejních přepážek Lítačky je omezen na 100, to je sice násobně více, než kolik bylo potřeba pro Opencard, ale je to určité omezení možností rozvoje systému. 
 
-3) Nejsme nadšeni z Paragrafu XI, článku 6 smlouvy. Nicméně po prostudování příslušného paragrafu [Autorského zákona](http://www.zakonyprolidi.cz/cs/2000-121#f2021799), máme za to, že dané ustanovení smlouvy by nemělo způsobit žádné komplikace. Právní kreativitu budoucích majitelů XT-Card ovšem nemůžeme zcela vyloučit. 
+3. Nejsme nadšeni z Paragrafu XI, článku 6 smlouvy. Nicméně po prostudování příslušného paragrafu [Autorského zákona](http://www.zakonyprolidi.cz/cs/2000-121#f2021799), máme za to, že dané ustanovení smlouvy by nemělo způsobit žádné komplikace. Právní kreativitu budoucích majitelů XT-Card ovšem nemůžeme zcela vyloučit. 
 
-4) Společnost XT-Card byla vybraná v poptávkovém řízení, výběrové řízení tedy bylo neveřejné. Vzhledem k tomu, že šlo o zakázku malého rozsahu (pod dva miliony korun), je tento postup spíše v pořádku, otázkou ale zůstává, zda Praha dodržela povinnost rovného zacházení se všemi dodavateli. 
+4. Společnost XT-Card byla vybraná v poptávkovém řízení, výběrové řízení tedy bylo neveřejné. Vzhledem k tomu, že šlo o zakázku malého rozsahu (pod dva miliony korun), je tento postup spíše v pořádku, otázkou ale zůstává, zda Praha dodržela povinnost rovného zacházení se všemi dodavateli. 
 
 Smlouvu naleznete zde, stáhne se po kliknutí na [tlačítko veřejný vstup](http://zastupitelstvo.praha.eu/ina2014/inagetdocument.aspx?par=065128162170165126149134133103177170165126114114117115115116122103170165126114113116122113113118)
 
