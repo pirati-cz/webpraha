@@ -37,9 +37,7 @@ Z hlediska koncového uživatele systém funguje úplně stejně.
 
 ## K čemu máme výhrady?
 
-1. Systém není opensource
-
-Piráti by dali přednost tomu, aby město mělo kromě licenčních práv i zdrojové kódy příslušného software a oprávnění je upravovat. Úpravy a rozvoj systému by potom mohla dělat jakákoli firma, případně město svépomocí. Na druhou stranu Lítačka je podle tvrzení zástupců Operátora ICT modulární a zdokumentovaná. Tzn rozšíření systému by měly být schopné dělat i jiné firmy než XT-Card jednoduše tak, že nové prvky napojí na stávající operační systém dodaný XT-Card. 
+1. Systém není opensource. Piráti by dali přednost tomu, aby město mělo kromě licenčních práv i zdrojové kódy příslušného software a oprávnění je upravovat. Úpravy a rozvoj systému by potom mohla dělat jakákoli firma, případně město svépomocí. Na druhou stranu Lítačka je podle tvrzení zástupců Operátora ICT modulární a zdokumentovaná. Tzn rozšíření systému by měly být schopné dělat i jiné firmy než XT-Card jednoduše tak, že nové prvky napojí na stávající operační systém dodaný XT-Card. 
 
 2. Maximální počet výdejních přepážek Lítačky je omezen na 100, to je sice násobně více, než kolik bylo potřeba pro Opencard, ale je to určité omezení možností rozvoje systému. 
 
