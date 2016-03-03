@@ -15,7 +15,7 @@ Tolik k vizi, jak to má fungovat v budoucnu, bohužel dnes je Praha stále ješ
 
 1. Společnost EMS (majitel licenčních práv na Opecard) po Praze za každý měsíc výdeje karet požaduje 5 milionů Kč za "servis". Tato položka je čistě virtuální, ale hrozí, že soudy její část EMS přiznají. 
 
-2. Za vydání každou Opecard Praha platí EMS 50 korun. Vzhledem k tomu, že karet je přes milion, jde o desetimiliony korun. A dalších 50 korun za dopravní odbavovací aplikaci.
+2. Za vydání každé Opecard Praha platí EMS 50 korun. Vzhledem k tomu, že karet je přes milion, jde o desetimiliony korun. A dalších 50 korun za dopravní odbavovací aplikaci.
 
 3. Přestože Praha zaplatila dlouhodobé licence na certifikáty nutné k vydávání Opencard, EMS tyto certifikáty začala prodlužovat s týdenním intervalem. Po dobu několika měsíců tak Praze každý týden hrozilo, že vydávání Opencard přestane fungovat. 
 
