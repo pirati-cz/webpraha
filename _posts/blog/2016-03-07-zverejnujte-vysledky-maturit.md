@@ -4,7 +4,7 @@ category: blog
 tags: zveřejňování, vzdělávání
 title: Paní ministryně, zveřejněte data k výsledkům z maturitních testů
 image: /assets/images/blog/maturita.png
-autor: Mikuláš Ferjenčík, Ondřej Profant
+autor: Adam Zábranský
 ---
 
 Zastupitelé hl. m. Prahy za Piráty Adam Zábranský a Ondřej Profant v otevřeném dopise vyzvali ministryni školství Kateřinu Valachovou, ať se zasadí o rozsáhlejší zveřejňování dat ze státních maturit. V současnosti jsou na portále [vysledky.cermat.cz](http://vysledky.cermat.cz) zveřejňována pouze data o úspěšnosti žáků na úrovni celých testů, data podle jednotlivých úloh ale už chybí. „Přitom v minulosti se například v testech z matematiky objevily úlohy, které byly kontroverzní, a jistě by bylo zajímavé vidět, kolik žáků zvolilo jednotlivé odpovědi. Tyto informace jsou poptávány z řad odborné veřejnosti jako je třeba spolek EDUin, ale i jednotlivými žáky, kteří chtějí vědět, jak odpovídali ve srovnání s ostatními,“ shrnuje přínosnost zveřejňování anonymizovaných zdrojových dat z výsledků maturitních testů zastupitel Adam Zábranský.
