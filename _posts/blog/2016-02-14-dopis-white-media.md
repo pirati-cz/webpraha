@@ -6,9 +6,7 @@ title: Otevřený dopis redakci White Media
 image: /assets/images/blog/demo-n.jpg
 autor: Mikuláš Ferjenčík, Ondřej Profant, Jakub Michálek, Adam Zábranský
 ---
-Vážení neonacisté z webu White-media.info, 
-
-sobotní útok na centrum Klinika a [nedávné pobodání našeho spoluobčana muslimského vyznání](http://tn.nova.cz/clanek/napadeni-v-praze-pobodany-muslim-dostal-policejni-ochranku.html) ukazují, že vaše nenávist v naší zemi bohužel zapouští kořeny. Protože v této turbulentní době není radno stát stranou, rádi bychom vás požádali o zařazení do seznamů, které udržujete na svém webu. Jsme si vědomi toho, že jste se ani k útoku na muslima z Prahy 10, ani k podpálení kliniky nepřihlásili, ale bezpochyby vás potěšily a jelikož moc dalších nácků neznáme, tak se obracíme na vás. 
+Vážení neonacisté z webu White-media.info, sobotní útok na centrum Klinika a [nedávné pobodání našeho spoluobčana muslimského vyznání](http://tn.nova.cz/clanek/napadeni-v-praze-pobodany-muslim-dostal-policejni-ochranku.html) ukazují, že vaše nenávist v naší zemi bohužel zapouští kořeny. Protože v této turbulentní době není radno stát stranou, rádi bychom vás požádali o zařazení do seznamů, které udržujete na svém webu. Jsme si vědomi toho, že jste se ani k útoku na muslima z Prahy 10, ani k podpálení kliniky nepřihlásili, ale bezpochyby vás potěšily a jelikož moc dalších nácků neznáme, tak se obracíme na vás. 
 
 Předseda našeho zastupitelského klubu Jakub Michálek by chtěl být zařazen do sekce „Hnusáci a úchylové“, bývalý primátor hlavního města Prahy MUDr. Pavel Bém mu [nedávno diagnostikoval idiocii](http://echo24.cz/a/w3v4H/je-pan-michalek-jenom-pirat-anebo-take-idiot). Ondřej Profant, předseda pražských Pirátů by rád do sekce neomarxisté, myslí si například, že je lepší platit lidem než korporacím. Adam Zábranský je jasný xenofil, navíc vegan, a Mikuláš Ferjenčík patří do vícero kolonek, ale nejvhodnější budou asi imigranti, ostatně jeho babička byla poloviční sudetská Němka!
 
