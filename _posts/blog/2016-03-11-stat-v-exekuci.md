@@ -18,4 +18,4 @@ Právník zabývající se svobodným šířením informací Jakub Michálek po�
 ## Odkazy 
 
 * [první část usnesení](https://github.com/pirati-cz/KlubPraha/blob/master/spisy/2015/68-technicke-normy/12-usneseni-soudu/usneseni-prvni-cast.PDF)
-* [pruhá část usnesení](https://github.com/pirati-cz/KlubPraha/blob/master/spisy/2015/68-technicke-normy/12-usneseni-soudu/usneseni-druha-cast.PDF)
+* [druhá část usnesení](https://github.com/pirati-cz/KlubPraha/blob/master/spisy/2015/68-technicke-normy/12-usneseni-soudu/usneseni-druha-cast.PDF)
