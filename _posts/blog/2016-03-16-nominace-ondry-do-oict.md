@@ -3,7 +3,7 @@ layout: eu
 category: blog
 tags: klinika, praha
 title: Piráti chtějí dohlédnout na „vyvedenou“ informatiku, nominují Ondřeje Profanta
-image: /assets/images/blog/ondrejs.jpg
+image: /assets/images/blog/ondrej.jpg
 autor: Jan Loužek, Ondřej Profant, Jakub Michálek
 ---
 
