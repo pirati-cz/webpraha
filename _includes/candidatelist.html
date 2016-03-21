@@ -1,23 +1,24 @@
 {% assign candidates = (site.posts | where: "category", "zastupitel" | sort: 'number') %}
 
 <div class="slideshow-wrapper">
-<ul id="candidatecarousel" class="example-orbit" data-orbit data-options="pause_on_hover:true; timer:true; timer_speed:3000; bullets:false">
-  {% for candidate in candidates offset:1 %}
-    {% if candidate.number >= page.number %}
+  <ul id="candidatecarousel" class="example-orbit" data-orbit data-options="pause_on_hover:true; timer:true; timer_speed:3000; bullets:false">
+    {% for candidate in candidates offset:1 %}
+      {% if candidate.number >= page.number %}
       {% assign label = ((candidate.url | split: '.html').first | array_to_sentence_string | split: '/').last %}
       <li{% if candidate.number == page.number %} class="active"{% endif %}  data-orbit-slide="{{ label }}">
         <a href="{{ candidate.url }}">
           <img src="/assets/images/candidates/images/{{ candidate.image }}" alt="{{candidate.fullname}}" />
         </a>
       </li>
-    {% endif %}
-  {% endfor %}
-  {% for candidate in candidates offset:1 %}
-    {% if candidate.number < page.number %}{% assign label = ((candidate.url | split: '.html').first | array_to_sentence_string | split: '/').last %}
-    <li{% if candidate.number == page.number %} class="active"{% endif %}  data-orbit-slide="{{ label }}"><a href="{{ candidate.url }}"><img src="/assets/images/candidates/images/{{ candidate.image }}" alt="{{candidate.fullname}}" /></a></li>
-    {% endif %}
-  {% endfor %}
-</ul>
+      {% endif %}
+    {% endfor %}
+    {% for candidate in candidates offset:1 %}
+      {% if candidate.number < page.number %}
+      {% assign label = ((candidate.url | split: '.html').first | array_to_sentence_string | split: '/').last %}
+      <li{% if candidate.number == page.number %} class="active"{% endif %}  data-orbit-slide="{{ label }}"><a href="{{ candidate.url }}"><img src="/assets/images/candidates/images/{{ candidate.image }}" alt="{{candidate.fullname}}" /></a></li>
+      {% endif %}
+    {% endfor %}
+  </ul>
 </div>
 
 <h3>Náš tým v zastupitelstvu</h3>

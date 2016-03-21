@@ -3,7 +3,7 @@ layout: eu
 category: blog
 tags: praha
 title: Piráti zaslali své připomínky ke Strategickému plánu Prahy
-image: /assets/images/blog/strat.jpg
+image: /assets/images/blog/strat.png
 autor: Adam Zábranský
 ---
 
