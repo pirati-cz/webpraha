@@ -2,7 +2,7 @@
 layout: eu
 category: blog
 tags: praha
-title: Historicky nejvyšší rozpočet na Praze 9
+title: Koalice na Praze 9 neudržitelně utrácí
 image: /assets/images/blog/roz9.jpg
 autor: Dana Balcarová
 ---
