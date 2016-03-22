@@ -3,7 +3,7 @@ layout: eu
 category: blog
 tags: praha
 title: Piráti odmítají soukromý business na úkor zdraví občanů Prahy 6
-image: /assets/images/blog/presun.jpg
+image: /assets/images/blog/brevnov.jpg
 autor: Jan Lipavský
 ---
  

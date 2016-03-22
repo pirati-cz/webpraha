@@ -2,7 +2,7 @@
 layout: eu
 category: blog
 tags: praha
-title: Piráti odmítají soukromý business na úkor zdraví občanů Prahy 6
+title: Historicky nejvyšší rozpočet na Praze 9
 image: /assets/images/blog/roz9.jpg
 autor: Dana Balcarová
 ---
