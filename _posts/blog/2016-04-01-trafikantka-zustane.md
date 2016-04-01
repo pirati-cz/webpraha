@@ -17,7 +17,7 @@ Zastupitelstvo hl. m. Prahy odmítlo návrh Pirátů projednat výzvu Monice Kro
 
 Zastupitelstvo odmítlo projednat návrh Pirátů na změnu územního plánu v Praze-Čakovicích, kde chce developerská firma postavit nové domy. Všechny orgány Magistrátu a města se vyjádřily, že stavba je zcela nevhodná, přesto ji ČSSD tlačí. Soudce Havlín, odsouzený za korupci, na odposlechu uvedl, že po Březinovi chtěl, aby v Čakovicích pomohl podnikatelům Janu Harangozzo a Františkovi Janů. Piráti tuto změnu – do té doby neznámou – vypátrali a navrhli její zamítnutí. Bohužel kvůli ODS a Trojkoalici nebyl návrh Pirátů na zastavení změn územního plánu zařazen na program jednání.
 
-### Ďolíček koupí Praha
+### Praha koupí Ďolíček
 
 Zastupitelstvo schválilo nákup stadionu Ďolíček do vlastnictví Prahy za 120 mil. Kč. Klub Bohemians 1905 tak bude moci pokračovat v činnosti. Nákup stadionu je však podmíněn např. zveřejněním konečného vlastníka a uzavřením smlouvy o smlouvě budoucí, kterou schválí Zastupitelstvo. Návrh předložil radní Hadrava (ANO) a Jakub Michálek za Piráty spolu s Trojkoalicí doplnili do návrhu zásady nájemní smlouvy, které zaručí větší transparenci a dlouhodobé využití pro profesionální i amatérský sport. Doplňující návrh na trvalé zanesení sportovního účelu stadionu do územního plánu bohužel nebyl schválen. Tím se mohla Praha pojistit proti situaci, kdy by budoucí politická reprezentace chtěla stadion nechat zbourat a nahradit ho například obchodním centrem.
 
