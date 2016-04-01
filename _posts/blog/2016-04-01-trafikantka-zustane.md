@@ -7,7 +7,7 @@ image: /assets/images/blog/monika-karel.jpg
 autor: Jakub Michálek, Adam Zábranský
 ---
 
-Na březnovém zasedání pražského zastupitelstva se Pirátům podařilo zanést zavádění otevřeného softwaru do pražských škol a využívání otevřených vzdělávacích materiálů do dlouhodobého plánu vzdělávání. Navíc jsme prosadili úpravu návrhu na koupi fotbalového stadionu Ďolíček tak, aby před koupí stadionu bylo jasné, jak s ním chceme dál nakládat. Na druhou stranu se nám nepovedlo prosadit usnesení proti trafikantům. Bývalá zastupitelka TOP 09 Monika Krobová Hášová, která je od středy zastupitelkou za ČSSD, tak zůstává i nadále v dobře placené pozici v dozorčí radě Pražské energetiky. Rovněž naše hlasy nestačily na to, aby Praha pomohla Autonomnímu sociálnímu centru Klinika.
+Na březnovém zasedání pražského zastupitelstva se Pirátům podařilo zanést zavádění otevřeného softwaru do pražských škol a využívání otevřených vzdělávacích materiálů do dlouhodobého plánu vzdělávání. Navíc jsme prosadili úpravu návrhu na koupi fotbalového stadionu Ďolíček tak, aby před koupí stadionu bylo jasné, jak s ním chceme dál nakládat. Na druhou stranu se nám nepovedlo prosadit usnesení proti trafikantům. Bývalá zastupitelka TOP 09 Monika Krobová Hášová, která je od středy zastupitelkou klubu ČSSD, tak zůstává i nadále v dobře placené pozici v dozorčí radě Pražské energetiky. Rovněž naše hlasy nestačily na to, aby Praha pomohla Autonomnímu sociálnímu centru Klinika.
 
 ### Zastupitelka přeběhla k ČSSD, trafika v dozorčí radě jí zůstává
 
