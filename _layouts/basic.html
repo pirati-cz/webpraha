@@ -1,0 +1,19 @@
+{% include head.html %}
+
+<body {% if page.id %}id="{{ page.id }}"{% endif %}>
+{% include facebook-page.html %}
+
+{% include header.html %}
+
+<main>
+<div class="row contents">
+
+{{ content }}
+
+</div>
+</main>
+{% include foot.html %}
+{% include js.html %}
+
+</body>
+</html>

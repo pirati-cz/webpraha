@@ -20,7 +20,7 @@ Piráti přitom již v polovině roku 2015 upozorňovali na to, že Praha má sm
 
 Rada odbornou komisi pro ICT úplně obešla, ačkoliv bylo opakovaně přislíbeno, že se k materiálu bude moci vyjádřit. 
 
-Magistrát současnou zakázkou šitou na míru společnosti Gordic vystavuje Prahu hrozbě pokuty v řádu milionů Kč. Praha již dříve slibovala vyhlásit otevřené zadávací řízení na zadání veřejné zakázky, k čemuž nedošlo. Hlavnímu městu byla v roce 2013 udělena Úřadem pro ochranu hospodářské soutěže pětimilionová pokuta kvůli jednotnému ekonomickému systému (větší bratříček Gordicu GINIS). V současném výběrovém řízení psaly stanovisko dokonce stejné firmy.
+Věcně problém usnesení spočívá také v tom, že u konzultací a metodik není jednoznačně prokázán důvod pro jednací řízení bez uveřejnění. Hlavnímu městu byla v roce 2013 za stejné pochybení udělena Úřadem pro ochranu hospodářské soutěže pětimilionová pokuta kvůli jednotnému ekonomickému systému (větší bratříček Gordicu GINIS). V současném výběrovém řízení psaly stanovisko dokonce stejné firmy. Magistrát proto současnou zakázkou šitou na míru společnosti Gordic vystavuje Prahu hrozbě další pokuty v řádu milionů Kč. Praha již dříve slibovala vyhlásit otevřené zadávací řízení na zadání veřejné zakázky, k čemuž nedošlo. 
 
 Kvůli problému českých obcí v oblasti informatiky vznikla minulý rok iniciativa [Otevřená města](http://www.otevrenamesta.cz/), která má za cíl mimo jiné využít společných prostředků pro tvorbu svobodného software, který by mohlo využívat každé město zdarma. Existovala by tak svobodná soutěž mezi dodavateli podpory informačních systémů a ušetřily by se miliardy z veřejných zdrojů.
 
@@ -29,3 +29,4 @@ Kvůli problému českých obcí v oblasti informatiky vznikla minulý rok inici
 * [Usnesení Rady hl. m. Prahy ze dne 22. 3. č. R-20441](https://github.com/pirati-cz/webpraha/blob/gh-pages/assets/static/20441.pdf)
 * [Usnesení Rady hl. m. Prahy ze dne 22. 3. č. R-21292](https://github.com/pirati-cz/webpraha/blob/gh-pages/assets/static/21292.pdf)
 * [Usnesení Rady hl. m. Prahy ze dne 22. 3. č. R-21310](https://github.com/pirati-cz/webpraha/blob/gh-pages/assets/static/21310.pdf)
+* [Návrh Pirátů zaslaný primátorce ohledně malého GINISu](https://github.com/pirati-cz/webpraha/blob/gh-pages/assets/static/mapy-ginis-aktualizovano.pdf)
